@@ -1,0 +1,74 @@
+1;Adam Malysz;POL;504
+2;Akira Higashi;JPN;103
+3;Akseli Kokkonen;FIN;232
+4;Aleksiej Silajew;RUS;22
+5;Alexander Herr;GER;98
+6;Anders Bardal;NOR;118
+7;Andreas Goldberger;AUT;263
+8;Andreas Kofler;AUT;211
+9;Andreas Kuettel;SUI;207
+10;Andreas Widhoelzl;AUT;160
+11;Asan Tachtachunow;KAZ;4
+12;Balthasar Schneider;AUT;20
+13;Bjoern Einar Romoeren;NOR;440
+14;Chil Gu Kang;KOR;2
+15;Christian Nagiller;AUT;44
+16;Clint Jones ;USA;25
+17;Daiki Ito;JPN;55
+18;Damjan Fras;SLO;11
+19;Damjan Jernej;SLO;15
+20;Denis Kornilow;RUS;13
+21;Dimitrij Ipatow;RUS;9
+22;Dmitri Wasiliew;RUS;16
+23;Emmanuel Chedal;FRA;44
+24;Ferdinand Bader;GER;9
+25;Florian Liegl;AUT;39
+26;Georg Spaeth;GER;282
+27;Harri Olli;FIN;6
+28;Henning Stensrud ;NOR;95
+29;Hideharu Miyahira ;JPN;60
+30;Hiroki Yamada ;JPN;68
+31;Jakub Janda ;CZE;50
+32;Jan Matura ;CZE;32
+33;Jan Mazoch ;CZE;3
+34;Janne Ahonen; FIN;940
+35;Jens Salumae ;EST;10
+36;Joerg Ritzerfeld ;GER;52
+37;Johan Erikson ;SWE;44
+38;Juha-Matti Ruuskanen ;FIN;65
+39;Jussi Hautamaeki ;FIN;48
+40;Kazuyoshi Funaki ;JPN;68
+41;Lars Bystoel;NOR;202
+42;Marcin Bachleda ;POL;27
+43;Martin Hoellwarth ;AUT;683
+44;Martin Mesik ;SVK;4
+45;Martin Schmitt;GER;191
+46;Mateusz Rutkowski ;POL;17
+47;Matti Hautamaeki ;FIN;475
+48;Maximilian Mechler ;GER;169
+49;Michael Uhrmann ;GER;402
+50;Morten Solem ;NOR;146
+51;Nicolas Dessum ;FRA;49
+52;Noriaki Kasai ;JPN;372
+53;Olav Magne Doennem ;NOR;5
+54;Peter Zonta ;SLO;470
+55;Primoz Peterka ;SLO;32
+56;R. Schwarzenberger ;AUT;80
+57;Radik Zaparow ;KAZ;3
+58;Roar Ljoekelsoey ;NOR;736
+59;Robert Kranjec ;SLO;14
+60;Rok Benkovic ;SLO;176
+61;Sigurd Pettersen ;NOR;717
+62;Simon Ammann ;SUI;154
+63;Stefan Pieper ;GER;13
+64;Stefan Thurnbichler ;AUT;16
+65;Stephan Hocke ;GER;76
+66;Sven Hannawald;GER;253
+67;Tami Kiuru ;FIN;239
+68;Teppei Takano ;JPN;14
+69;Thomas Morgenstern ;AUT;535
+70;Tommy Ingebrigtsen ;NOR;233
+71;Veli-Matti Lindstroem ;FIN;416
+72;Wojciech Skupien ;POL;20
+73;Wojciech Tajner ;POL;9
+74;Wolfgang Loitzl ;AUT;93

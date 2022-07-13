@@ -1,0 +1,17 @@
+Polska;POL
+Finlandia;FIN
+Norwegia;NOR
+Niemcy;GER
+Szwajcaria;SUI
+Austria;AUT
+Czechy;CZE
+Japonia;JPN
+Stany Zjednoczone;USA
+S³owenia;SLO
+Francja;FRA
+Szwecja;SWE
+Rosja;RUS
+Estonia;EST
+S³owacja;SVK
+Kazachstan;KAZ
+Korea;KOR
