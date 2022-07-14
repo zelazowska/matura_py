@@ -1,0 +1,19 @@
+## Algorytmy
+  - [ ] Algorytm Euklidesa - wyznaczanie NWD i NWW
+  - [ ] Ciąg Fibonacciego
+  - [ ] Działania na ułamkach zwykłych
+  - [ ] Liczby doskonałe
+  - [ ] Liczby pierwsze - sito Erastotenesa
+  - [ ] Obliczanie pola pod wykresem (metoda prostokątów i trapezów)
+  - [ ] ONP - Odwrotna Notacja Polska
+  - [ ] Palindromy i anagramy
+  - [ ] Rozkład liczby na czynniki pierwsze
+  - [ ] Schemat Hornera
+  - [ ] Sortowanie bąbelkowe
+  - [ ] Sortowanie przez wybór (selekcję)
+  - [ ] Systemy liczbowe
+  - [ ] Szyfr Cezara
+  - [ ] Warunek trójkąta
+  - [ ] Wyszukiwanie podciągu w łancuchu znaków
+  - [ ] Wyznaczanie miejsca zerowego w przedziale (metoda połowienia)
+  - [ ] Znajdowanie najmniejszej i największej wartości
