@@ -17,3 +17,12 @@
   - [ ] Wyszukiwanie podciągu w łancuchu znaków
   - [ ] Wyznaczanie miejsca zerowego w przedziale (metoda połowienia)
   - [ ] Znajdowanie najmniejszej i największej wartości
+
+## Użyteczne funkcje / C++
+  - [ ] Konwertowanie zmiennej typu string do long int - strtol()
+  - [ ] Konwertowanie zmiennej typu string do int - atoi()
+  - [ ] Porównywanie liczb - min() i max()
+  - [ ] Sortowanie - sort()
+  - [ ] Wartość bezwzględna - abs()
+  - [ ] Zamiana wartości zmiennych - swap()
+  - [ ] Zaokrąglanie liczb ułamkowych - round(), ceil() i floor()
