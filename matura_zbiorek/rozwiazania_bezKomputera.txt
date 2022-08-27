@@ -77,3 +77,7 @@ dla i = 1, 2, ..., k wykonuj
  	jeżeli y≥1 
 		y = y-1
 ŹLE! 
+
+Zadanie 3. 
+Wiązka zadań  Ciekawe mnożenia
+
