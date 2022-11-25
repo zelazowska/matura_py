@@ -2,6 +2,8 @@
 ### Wiązka zadań Ciągi rekurencyjne
 
 1.1 
+
+
     |i 	|wynik(i)|
     |---|--------|
     |2 	|   1    |
@@ -13,6 +15,8 @@
     |8 	|   9    |
    
 1.2
+
+
     |i  | E(i)|
     |---|-----| 
     |0	| 1   |
@@ -26,25 +30,26 @@
     E(i) = E(i-3) + E(i-1) dla parzystego i > 2 
     E(i) = E(e-1) 	       dla nieparzystego i > 2
    
-1.3 
-    'W[0] ← 1 
-    W[1] ← 1 
-    W[2] ← 1 
-    max_wart ← 1 
-    dla i = 3, 4, …, 1 000 wykonuj 
-        jeżeli i mod 2 = 0 
-            W[i] ← W[i-3] + W[i-1] + 1
-        w przeciwnym razie 
-            W[i] ← W[i-1] mod 7
-        jeżeli W[i] > max_wart
-            W[i] ← max_wart
-    zwróć max_wart'
+'W[0] ← 1 
+W[1] ← 1 
+W[2] ← 1 
+max_wart ← 1 
+dla i = 3, 4, …, 1 000 wykonuj 
+    jeżeli i mod 2 = 0 
+        W[i] ← W[i-3] + W[i-1] + 1
+    w przeciwnym razie 
+        W[i] ← W[i-1] mod 7
+    jeżeli W[i] > max_wart
+        W[i] ← max_wart
+zwróć max_wart'
     
 
 ## Zadanie 2. 
 ### Wiązka zadań Ułamki dwójkowe
 
 2.1
+
+
     | Kolejne wykonanie (*)| Wartość zmiennej y |
     |----------------------|--------------------|
     |           1 	       |        0,2         |
