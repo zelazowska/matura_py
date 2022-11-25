@@ -5,8 +5,8 @@
 
 
     |i 	|wynik(i)|
-    |---|--------|
-    |2 	|   1    |
+    |------|--------|
+    |2  |   1    |
     |3	|   1    |
     |4 	|   3    |
     |5 	|   3    |
@@ -18,7 +18,7 @@
 
 
     |i  | E(i)|
-    |---|-----| 
+    |------|-----| 
     |0	| 1   |
     |3	| 1   |
     |5	| 2   |
@@ -29,19 +29,21 @@
     E(0) = E(1) = E(2) = 1 
     E(i) = E(i-3) + E(i-1) dla parzystego i > 2 
     E(i) = E(e-1) 	       dla nieparzystego i > 2
+
+1.3 
    
-'W[0] ← 1 
-W[1] ← 1 
-W[2] ← 1 
-max_wart ← 1 
-dla i = 3, 4, …, 1 000 wykonuj 
-    jeżeli i mod 2 = 0 
-        W[i] ← W[i-3] + W[i-1] + 1
-    w przeciwnym razie 
-        W[i] ← W[i-1] mod 7
-    jeżeli W[i] > max_wart
-        W[i] ← max_wart
-zwróć max_wart'
+    W[0] ← 1 
+    W[1] ← 1 
+    W[2] ← 1 
+    max_wart ← 1 
+    dla i = 3, 4, …, 1 000 wykonuj 
+        jeżeli i mod 2 = 0 
+            W[i] ← W[i-3] + W[i-1] + 1
+        w przeciwnym razie 
+            W[i] ← W[i-1] mod 7
+        jeżeli W[i] > max_wart
+            W[i] ← max_wart
+    zwróć max_wart
     
 
 ## Zadanie 2. 
@@ -60,9 +62,9 @@ zwróć max_wart'
     Liczba wypisana przez algorytm: 0,10011
 
 2.2
-    Podaj przykład liczby x, dla której po wykonaniu funkcji binarny(x,4) zmienna y ma wartość 0, a po wykonaniu funkcji binarny(x, 3) zmienna y nie jest równa 0.
-    - x = 0,0625
-        - WYJAŚNIENIE: dla iteracji nr. 4 liczba y przed porównaniem z 1 musi być równa 1, dlatego x = 0,0625 (bo przy zakończeniu 4 iteracji wyniesie 1, wówczas y=y-1 => y=1-1=0, a dla 3 iteracji wyniesie 0,5, (bo y=0,5 <= 1))
+    1. Podaj przykład liczby x, dla której po wykonaniu funkcji binarny(x,4) zmienna y ma wartość 0, a po wykonaniu funkcji binarny(x, 3) zmienna y nie jest równa 0.
+        - x = 0,0625
+            - WYJAŚNIENIE: dla iteracji nr. 4 liczba y przed porównaniem z 1 musi być równa 1, dlatego x = 0,0625 (bo przy zakończeniu 4 iteracji wyniesie 1, wówczas y=y-1 => y=1-1=0, a dla 3 iteracji wyniesie 0,5, (bo y=0,5 <= 1))
 
 2.3
     FIX NEEDED
