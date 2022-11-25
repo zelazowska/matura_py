@@ -1,7 +1,7 @@
-##### Zadanie 1. 
-###### Wiązka zadań Ciągi rekurencyjne
+## Zadanie 1. 
+### Wiązka zadań Ciągi rekurencyjne
 
-* 1.1 
+1.1 
     i 	wynik(i) 
     2 	   1 
     3	   1 
@@ -11,8 +11,7 @@
     7	   5 
     8 	   9
    
-
-* 1.2
+1.2
     i 	E(i) 
     0	 1 
     3	 1 
@@ -25,8 +24,7 @@
     E(i) = E(i-3) + E(i-1) dla parzystego i > 2 
     E(i) = E(e-1) 	     dla nieparzystego i > 2
    
-
-* 1.3 
+1.3 
     W[0] ← 1 
     W[1] ← 1 
     W[2] ← 1 
@@ -41,10 +39,10 @@
     zwróć max_wart
     
 
-##### Zadanie 2. 
-###### Wiązka zadań Ułamki dwójkowe
+## Zadanie 2. 
+### Wiązka zadań Ułamki dwójkowe
 
-* 2.1
+2.1
     Kolejne wykonanie (*) Wartość zmiennej y 
     1 					0,2
     2					0,4 
@@ -53,23 +51,23 @@
     5 					0,2
     Liczba wypisana przez algorytm: 0,10011
 
-* 2.2
+2.2
     Podaj przykład liczby x, dla której po wykonaniu funkcji binarny(x,4) zmienna y ma wartość
     0, a po wykonaniu funkcji binarny(x, 3) zmienna y nie jest równa 0.
     x = 0,0625
     WYJAŚNIENIE: dla iteracji nr. 4 liczba y przed porównaniem z 1 musi być równa 1, dlatego
     x = 0,0625 (bo przy zakończeniu 4 iteracji wyniesie 1, wówczas y=y-1 => y=1-1=0, a dla 3 iteracji wyniesie 0,5, (bo y=0,5 <= 1))
 
-* 2.3
+2.3
     FIX NEEDED
 
-##### Zadanie 3. 
-###### Wiązka zadań  Ciekawe mnożenia
+## Zadanie 3. 
+### Wiązka zadań  Ciekawe mnożenia
 
 
-### 1.4 TEST Z OGÓLNEJ WIEDZY INFORMATYCZNEJ
+## 1.4 TEST Z OGÓLNEJ WIEDZY INFORMATYCZNEJ
 
-* 44.
+44.
     100110010
     2+16+32+256 = 306
 
@@ -84,10 +82,10 @@
 
     P P F P 
 
-* 56.
+56.
     P F P F
 
-* 57.
+57.
     P P F P
 
 
