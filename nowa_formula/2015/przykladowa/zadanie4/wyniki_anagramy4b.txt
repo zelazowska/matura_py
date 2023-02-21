@@ -1,0 +1,4 @@
+ZAD 4 b)
+Maksymalnie liczb, z ktorych kazde dwie to anagramy cyfrowe:
+11
+
