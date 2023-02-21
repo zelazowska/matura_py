@@ -1,0 +1,6 @@
+61.1
+Amount of arithemtic sequences:
+44
+Biggest difference:
+246849
+

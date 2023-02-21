@@ -1,0 +1,67 @@
+6.1 
+Liczba graczy		kraj
+11				Polska
+8				Stany Zjednoczone
+7				Francja
+6				Niemcy
+6				Rosja
+
+6.2
+nazwa				SumaOfstrzal
+ciemny elf			555
+elfi czarodziej		435
+lesny elf			1815
+wysoki elf-gwardzista	870
+
+6.3
+ID gracza
+22
+24
+29
+35
+36
+37
+38
+47
+54
+61
+64
+72
+110
+114
+115
+122
+123
+138
+141
+167
+
+6.4
+nazwa			Jednostki mogące osiągnąć bramę
+architekt			1
+artylerzysta		4
+balista			2
+ciemny elf			1
+drwal				3
+elfi czarodziej		1
+goniec			2
+ifryt				1
+kaplan			2
+kawalerzysta		7
+konny lucznik		4
+kusznik			1
+lekki jezdziec		19
+lucznik			1
+mag powietrza		3
+mag wody			2
+paladyn			1
+piechur			7
+pikinier			5
+robotnik			5
+topornik			5
+wysoki elf-gwardzista	1
+zwiadowca			4
+
+6.5
+pól, na których toczy się bitwa: 1061
+pól z wojną, w których uczestniczą Polacy: 245

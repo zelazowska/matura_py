@@ -1,0 +1,48 @@
+Id_przedszkola;Nazwa_przedszkola;Liczba_miejsc
+66;Niepubliczne Przedszkole Cogito;50
+14;Niepubliczne Przedszkole Krasnal;30
+13;Niepubliczne Przedszkole Kraina Teczy;30
+57;Przedszkole Niepubliczne Radosny Zakatek;30
+52;Przedszkole Niepubliczne Stokrotka;25
+49;Przedszkole Niepubliczne Artystyczno-Jezykowe;20
+20;Przedszkole Niepubliczne im. Panienki z Okienka;20
+34;Przedszkole Niepubliczne Jezykowe;30
+1;Przedszkole nr 1;55
+9;Przedszkole nr 12;45
+10;Przedszkole nr 15;50
+2;Przedszkole nr 2;75
+17;Przedszkole nr 22;60
+21;Przedszkole nr 28;50
+22;Przedszkole nr 31;45
+23;Przedszkole nr 32;55
+25;Przedszkole nr 34;60
+26;Przedszkole nr 35;40
+3;Przedszkole nr 4 Gwarny Dworek;60
+31;Przedszkole nr 42 Dolina Smykow;30
+32;Przedszkole nr 43;30
+33;Przedszkole nr 44;25
+35;Przedszkole nr 46;30
+37;Przedszkole nr 49;45
+4;Przedszkole nr 5;40
+38;Przedszkole nr 51;50
+39;Przedszkole nr 52;50
+40;Przedszkole nr 54;55
+42;Przedszkole nr 58;30
+43;Przedszkole nr 59;40
+44;Przedszkole nr 60;45
+45;Przedszkole nr 61;20
+46;Przedszkole nr 62;50
+47;Przedszkole nr 63;45
+48;Przedszkole nr 64 Kubus Puchatek;40
+50;Przedszkole nr 66;35
+51;Przedszkole nr 67;40
+5;Przedszkole nr 7;45
+53;Przedszkole nr 71;30
+55;Przedszkole nr 73;30
+56;Przedszkole nr 74;50
+76;Przedszkole nr 75;60
+6;Przedszkole nr 8;40
+59;Przedszkole nr 81;35
+60;Przedszkole nr 84;60
+61;Przedszkole nr 85;50
+64;Przedszkole nr 88;50
