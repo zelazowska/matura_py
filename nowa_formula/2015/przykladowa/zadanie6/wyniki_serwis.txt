@@ -1,0 +1,46 @@
+Zadanie 6
+
+6 a)
+data
+13.04.2012
+06.11.2012
+
+6 b)
+nazwa		Flota
+METALEX	30
+FASAT		29
+PETROLEUM	25
+KONSBET	23
+RENOWATOR	19
+WERTIX	18
+LUBEX		18
+FERMILAB	18
+FAMUR		17
+
+6 c)
+Miesiąc	Suma kosztów
+1		15
+2		100
+3		476
+4		1065
+5		380
+6		195
+7		411
+8		40
+9		40
+10		460
+11		670
+12		70
+
+6 d)
+numer rejestracyjny: PO 60910	
+marka: Ford Transit
+właściciel: FERMILAB
+
+6 e)
+Nazwy firm, które wykonały wymianę płynu chłodniczego
+dla samochodów starszych niż wyprodukowanych w 2009 roku
+FAMUR
+KONSBET
+LUBEX
+RENOWATOR

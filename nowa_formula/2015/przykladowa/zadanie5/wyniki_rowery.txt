@@ -1,0 +1,30 @@
+Zadanie 5
+
+5 a)
+Typ roweru		Liczba sprzedanych	
+play-bike			14	
+rowerki_i_pojazdy	115	
+miejski			200	
+szosowy_miejski		231	
+szosowy_wyczynowy	259	
+gorski_sportowy		289	
+skladany			290	
+uniwersalny		291	
+gorski_rekreacyjny	311	
+Suma końcowa		2000	
+
+5 b)
+W pliku zadanie5_rowery.xlsx, arkusz "5b"
+
+5 c)
+Rodzaj	Średnia cena
+damskie	1424,43	
+dziecko	803,35	
+meskie	1548,66	
+
+5 d)
+
+Rodzaj	bialy		brazowy	czarny	czerwony	fioletowy	niebieski	rozowy	srebrny	zielony
+damskie	92		60		87		143		19		103		25		83		65
+dziecko	63		54		19		150		24		130		11		167		59
+meskie	68		51		88		45		11		116		2		215		50

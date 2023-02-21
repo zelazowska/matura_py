@@ -1,0 +1,4 @@
+ZAD 4 a)
+Liczba wierszy z anagramami:
+258
+
