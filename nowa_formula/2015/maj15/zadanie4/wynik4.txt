@@ -1,0 +1,13 @@
+Zadanie 4.1
+Wiecej zer niz jednek:
+422
+
+Zadanie 4.2
+Podzielne przez 2:
+500
+Podzielne przez 8: 
+123
+
+Zadanie 4.3
+Najmniejsza: 925
+Najwiêksza: 859

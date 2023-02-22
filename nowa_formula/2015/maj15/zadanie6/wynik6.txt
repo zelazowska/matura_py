@@ -1,0 +1,35 @@
+Zadanie 6
+
+Zad 6.1
+Sezon: 2010
+Nazwa: Australia
+
+Zad 6.2
+Najmniej rozegranych wyscigow:
+Indie
+
+Zad 6.3
+Sezon 2000:
+Michael Schumacher
+108 punktow
+
+Sezon 2006:
+Fernando Alonso	
+134 punktow
+
+Sezon 2012:
+Sebastian Vettel
+281 punktow
+
+Zad 6.4
+Kraj		Kierowców
+Australia		2
+Brazylia		2
+Finlandia		1
+Francja		2
+Hiszpania		1
+Japonia		1
+Meksyk		1
+Niemcy		4
+Wenezuela		1
+Wielka Brytania	3
