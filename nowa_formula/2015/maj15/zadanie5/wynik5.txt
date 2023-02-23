@@ -1,0 +1,21 @@
+ZADANIE 5
+
+Zad 5.1
+W arkuszu zad_5_1
+
+Zad 5.2
+Liczba województw w kraju:	
+19	
+	
+Liczba w danym regionie:	
+A	3
+B	4
+C	8
+D	4
+
+Zad 5.3
+Mieszkańców Edulandii w 2025: 125930205	
+Najludniejsze województwo:	w12C	
+Województw, gdzie wystąpiło przeludnienie: 18
+
+	
