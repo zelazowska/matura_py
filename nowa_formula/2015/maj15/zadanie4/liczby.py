@@ -34,6 +34,7 @@ def zadanie43():
         for lines in file:
             numbers.append(int(lines,2))
     results.write(f"Zadanie 4.3\nNajmniejsza: {numbers.index(max(numbers)) + 1}\nNajwieksza: {numbers.index(min(numbers)) + 1}")
+    file.close()
         
     
 zadanie41()
