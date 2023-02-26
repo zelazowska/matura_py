@@ -1,0 +1,62 @@
+ZADANIE 6
+
+Zadanie 6.1	
+
+Oferta: AB553DN	
+Imię i nazwisko agenta: Karol Zakowicz
+
+
+Zadanie 6.2
+
+Województwo		Średnia cena
+dolnoslaskie		345000,00
+kujawsko-pomorskie	299000,00
+lodzkie			304100,00
+lubelskie			260879,33
+lubuskie			227283,33
+malopolskie		650000,00
+mazowieckie		267082,83
+opolskie			400000,00
+podkarpackie		301312,50
+podlaskie			271206,95
+pomorskie			414150,00
+swietokrzyskie		319207,63
+warminsko-mazurskie	132450,00
+wielkopolskie		298600,00
+zachodniopomorskie	269025,20
+
+
+Zadanie 6.3
+
+Imię		Nazwisko	ID oferty	Województwo	Pow	Cena
+Piotr		Kopacz	AB543MT	podlaskie		85	325000
+Adam		Nowak		AB557MT	lubelskie		83	349000
+Karol		Zakowicz	AB644MT	mazowieckie	76	174500
+Milena	Karwik	AB691MT	lubuskie		39	170000
+Adam		Nowak		AB695MT	podkarpackie	162	420800
+Rozalia	Siedlecka	AB696MT	wielkopolskie	42	160000
+Karol		Szwarc	AB699MT	lodzkie		68	190500
+Krzysztof	Nowak		AB700MT	mazowieckie	85	265000
+Adam		Nowak		AB702MT	mazowieckie	49	186000
+
+Zadanie 6.4
+
+Imię		Nazwisko
+Milena	Karwik
+Jerzy		Andrzejewski
+Krzysztof	Nowak
+
+Zadanie 6.5
+
+ID		Pow	Pokoi	  Łazienek	Cena		Imie		Nazwisko
+AB692DT	244	8		3	650000	Piotr		Kopacz
+AB694DN	212	8		3	630000	Karol		Szwarc
+AB693DN	182	7		2	425000	Krzysztof	Nowak
+AB666DN	220	6		3	450000	Krzysztof	Nowak
+AB672DT	212	6		2	575000	Sebastian	Babij
+AB680DT	220	6		2	520000	Adam		Nowak
+AB686MN	192	6		2	375000	Adam		Nowak
+AB697DN	195	6		2	460000	Karol		Szwarc
+AB670DN	208	5		3	358400	Karol		Zakowicz
+AB682DN	203	5		3	485000	Adam		Nowak
+AB683DN	195	5		2	395800	Piotr		Kopacz

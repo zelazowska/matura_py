@@ -1,0 +1,2 @@
+Zadanie 4.3
+Pierwszych, ktorych waga jest rowna 1: 27
