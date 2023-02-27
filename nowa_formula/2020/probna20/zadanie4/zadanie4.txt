@@ -1,0 +1,6 @@
+ZADANIE 4
+
+Zadanie 4.1
+Najwieksza luka: 1056392131
+Najmniejsza luka: 1
+
