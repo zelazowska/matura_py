@@ -1,0 +1,60 @@
+ZADANIE 6
+
+Zad. 6.1
+Meczow zakonczonych tie-breakiem: 109
+
+Zad. 6.2
+Meczow	Miasto
+41		Wiralow
+39		Kukurykow
+32		Szymbark
+30		Preziowo
+21		Bialowo
+18		Gorkowo
+17		Kielkowo
+15		Licowo
+15		Sadelko
+15		Radelko
+15		Koszalkowo
+14		Barylkowo
+14		Orecin
+13		Rezkow
+13		Warkowo
+12		Lewkowo
+
+Zad. 6.3
+Imie		Nazwisko	Meczow
+Natalia	Jankowska	36
+Franciszek	Dudek		27
+Monika	Kowalczyk	26
+Katarzyna	Olszewska	25
+Szymon	Rutkowski	21
+Kamila	Majewska	21
+Barbara	Kaczmarek	21
+
+Zad. 6.4
+Imie		Nazwisko
+Jan		Malinowski
+Anna		Nowak
+Agnieszka	Wieczorek
+Kamila	Majewska
+Piotr		Lewandowski
+Franciszek	Dudek
+Barbara	Kaczmarek
+Zofia		Grabowska
+
+
+Zad. 6.5
+Nazwa			Miasto	Wygrane	Przegrane
+Astecja		Rezkow		10	3
+Bradownia		Preziowo		9	9
+Huraganer		Szymbark		8	8
+Libero		Warkowo		8	5
+Olimpia		Orecin		9	5
+Sfinks		Szymbark		9	7
+Spirca		Lewkowo		6	6
+Stolar		Wiralow		11	9
+Victoria		Radelko		10	5
+Waleczni		Preziowo		7	5
+Zenit			Licowo		8	7
+Zjednoczeni 	Kukurykow		10	8
