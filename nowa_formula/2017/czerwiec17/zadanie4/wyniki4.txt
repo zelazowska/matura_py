@@ -1,0 +1,15 @@
+ZADANIE 4
+
+Zadanie 4.1
+Punktow, gdzie obie wspolrzedne to liczby pierwsze: 18
+
+Zadanie 4.2
+Punktow o wspolrzednych cyfropodobnych: 0
+
+Zadanie 4.3
+Punkty: (9901, 593) (35, 9583), odleglosc: 13348
+
+Zadanie 4.4
+Wewnatrz:249
+Na bokach:2
+Na zewnatrz:749
