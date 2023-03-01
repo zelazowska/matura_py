@@ -60,4 +60,5 @@ for count in counter_list.values():
         three_times += 1
         
 results.write(f"\nZadanie 4.4\n{len(unique_numbers)} {two_times} {three_times}")
+print(counter_list)
 results.close()
