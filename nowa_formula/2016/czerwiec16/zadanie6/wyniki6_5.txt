@@ -1,0 +1,3 @@
+Zadanie 6.5
+Najmniejsza: 16 kod: 100002
+Najwieksza: 347931225 kod: 8066218209

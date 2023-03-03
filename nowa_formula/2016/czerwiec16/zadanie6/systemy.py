@@ -42,3 +42,23 @@ for number in numbers:
         counter_oct+=(int(number[:-1], 8))
         
 results4.write(f"Zadanie 6.4\nSuma osemkowych:{counter_oct}")
+
+#6.5
+biggest = -10000009
+smallest = 10000009
+biggest_code = 0
+smallest_code = 0
+for number in numbers:
+    number = number.rstrip()
+    code = int(number[-1])
+    value = int(number[:-1], code)
+    if value > biggest:
+        biggest = value
+        biggest_code = number
+    if value < smallest:
+        smallest = value
+        smallest_code = number
+        
+results5.write(f"Zadanie 6.5\nNajmniejsza: {smallest} kod: {smallest_code}\n")
+results5.write(f"Najwieksza: {biggest} kod: {biggest_code}\n")
+    
