@@ -1,0 +1,31 @@
+ZADANIE 4
+
+Zadanie 4.1
+1	26
+2	22
+3	30
+4	27
+5	25
+6	31
+7	33
+8	19
+9	29
+10	32
+11	28
+12	29
+
+Zadanie 4.2
+miejsce zamieszkania	ubezpieczonych kobiet
+duze miasto			97
+male miasto			20
+srednie miasto		59
+wies				24
+
+Zadanie 4.3
+Kobiety	8 961,50 zł
+Mężczyźni	6 261,00 zł
+
+Zadanie 4.4
+Arkusz ubezpieczenia.xlsx, zeszyt "zad44"
+
+ 
