@@ -1,0 +1,25 @@
+ZADANIE 5
+
+Zadanie 5.1
+a)
+Rodzaj meczu	Rozegranych
+	L		113
+	P		25
+	T		6 
+b)
+Rok	Rozegranych
+2007	21
+
+Zadanie 5.2
+Drużyny z bilansem zerowym: 
+Nocne Pumy
+Zwinne Mewy
+
+Zadanie 5.3
+Przegrana	452
+Remis		170
+Wygrana	579 
+
+Zadanie 5.4
+Żadnego pucharowego nie sędziowało:
+22 sędziów
