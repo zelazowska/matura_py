@@ -1,0 +1,9 @@
+ZADANIE 6
+
+Zadanie 6.1
+Najjasniejszy: 255
+Najciemniejszy: 0
+
+Zadanie 6.2
+Minimalna liczba do usuniecia, by otrzymac linie symetrii: 3
+
