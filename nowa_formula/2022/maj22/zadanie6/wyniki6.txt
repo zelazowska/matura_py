@@ -1,0 +1,27 @@
+ZADANIE 6
+
+Zad. 6.1
+Wszystkich wejść dziewcząt z klas o profilu biologiczno-chemicznym:
+165
+
+Zad. 6.2
+Dzień		Niespóżnionych uczniów
+4		233
+5		303
+6		134
+7		280
+8		127
+
+Zad. 6.3
+
+Imie		Nazwisko	ID Ucznia	
+Sebastian	Rabaj		314	
+Monika	Kado		172	
+Alicja	Kronecka	299
+
+Zad. 6.4
+Nieobecni 6.04:
+Mateusz	Kordas
+Krzysztof	Michalak
+Oliwier	Ziolko
+	
