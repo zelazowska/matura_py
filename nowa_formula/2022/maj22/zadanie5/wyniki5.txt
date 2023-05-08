@@ -1,0 +1,15 @@
+ZADANIE 5
+
+Zad. 5.1
+Gniezno		152
+Malbork		183
+Ogrodzieniec	222
+Przemysl		198
+
+Zad. 5.2
+Najdłuższy okres: 8 dni
+Pierwszy: 07.10.2021
+Ostatni: 14.10.2021
+
+Zad. 5.3
+W arkuszu zadanie5_sok.xlsx, zeszyt zad 5.3
