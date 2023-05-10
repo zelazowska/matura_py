@@ -1,0 +1,16 @@
+ZADANIE 5
+
+5.1
+Koszty po pierwszym roku działalności: 15 950,00 zł
+Łączne przychody po roku: 39 600,00 zł
+Po raz pierwszy przychody większe od kosztów: 1.06.2023	
+
+5.2
+Wykres w arkuszu "zad 5.2 wykres"
+
+5.3
+PRZYCHÓD	MINIMALNA CENA ZA GODZINĘ
+100 000	47 zł
+125 000	57 zł
+150 000	66 zł
+			
