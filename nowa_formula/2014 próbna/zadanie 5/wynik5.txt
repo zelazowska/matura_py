@@ -1,0 +1,10 @@
+5.1
+Pozytywnych serii treningowych dluzszych niz 3 dni: 11
+
+5.2
+Najdluzszy: 601, dzien 176
+Najkrotszy: 401, dzien 17
+
+5.3
+Dlugosc serii: 6
+Poprawa wyniku o 158 cm
