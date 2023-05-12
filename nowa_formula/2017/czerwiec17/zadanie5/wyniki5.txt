@@ -1,0 +1,54 @@
+ZADANIE 5
+
+Zad. 5.1
+a)
+Volvo FH o numerze rejestracyjnym ERA 092 TR
+Wartość w 2017: 43 610 zł
+Kwota amortyzacji wynikająca z upływu czasu: 40 050 zł
+Kwota amortyzacji wynikająca z użytkowania: 5 340 zł
+
+b)
+Samochód o najniższej wartości w 2017:
+Marka i model: DAF LF45	
+Numer rejestracyjnyL ERA 132 TR
+Wartość w 2017: 16 872 zł
+
+Zad. 5.2
+a)
+MARKA		AUT	ŚREDNI PRZEBIEG	
+DAF 		30	273 240 KM
+Iveco 	12	657 435 KM
+MAN 		18	289 637 KM
+Mercedes 	17	486 546 KM
+Renault 	17	519 936 KM
+Scania 	17	557 118 KM
+Volvo 	23	307 130 KM
+
+
+b)
+W pliku zadanie5_firmatransportowa.xlsx, arkusz 5.2	
+
+Zad. 5.3
+
+Marka		2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	
+DAF 		0	0	2	4	2	8	11	3	0	0
+Iveco 	5	0	0	2	2	0	3	0	0	0	
+MAN 		1	0	4	2	0	3	3	5	0	0
+Mercedes 	0	1	0	4	4	4	1	0	1	2	
+Renault 	0	0	0	2	6	6	3	0	0	0	
+Scania 	0	0	0	4	0	6	5	2	0	0	
+Volvo 	0	0	4	8	2	0	4	0	0	5	
+
+Zad. 5.4
+
+Marka i model		Rejestracja	Dni od serwisu
+Mercedes Atego		ERA 112 TR		722
+Iveco Strails		ERA 212 TR		708
+Iveco Strails		ERA 213 TR		708
+Iveco TrakkerEuro5	ERA 214 TR		708
+
+
+
+
+
+
