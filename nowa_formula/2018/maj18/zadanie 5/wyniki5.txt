@@ -1,0 +1,25 @@
+ZADANIE 5
+
+Zad. 5.1
+Rok 2015
+
+Zad. 5.2
+od 17.03.2015 do 10.05.2015
+
+Zad. 5.3
+Miesiąc	Suma dopływu wody
+1		95433
+2		94730
+3		109439
+4		632931
+5		329203
+6		85628
+7		166597
+8		139747
+9		282342
+10		170729
+11		222440
+12		172072
+
+Wykres: plik zadanie5_zbiornik.xlsx, arkusz zad5.3
+
