@@ -2,8 +2,10 @@ from collections import Counter
 
 example1 = open("przyklad1.txt")
 example1_file = example1.readlines()
+example1_file = example1_file.split("\n")
 example2 = open("przyklad2.txt")
 example2_file = example2.readlines()
+example2_file = example2_file.split("\n")
 example1.close()
 example2.close()
 temp1 = open("dane1.txt")
