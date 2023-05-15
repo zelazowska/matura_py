@@ -1,4 +1,3 @@
-temp = open("przyklad.txt").readlines()
 file = open("napisy.txt").readlines()
 results = open("wyniki4.txt", "w")
 
@@ -36,11 +35,27 @@ for lines in file:
  
 results.write(f"4.3\n{from_palindromes}\n\n")
 
-#4.4
-for lines in temp:
-    counter = 0
+#4.4 
+password = ''
+final_password = ''
+x_counter = 0
+for lines in file:
+    characters = []
     for character in lines:
-        
+        if character.isdecimal():
+            characters.append(character)
             
-    
-            
+    if len(characters) > 0:
+        if len(characters)%2 != 0:
+            characters = characters[:-1]
+
+        for i in range(1, len(characters),2):
+            letter_ord = characters[i-1] + characters[i]
+            if int(letter_ord) and int(letter_ord) >= 65 and int(letter_ord) <= 90:
+                password += chr(int(letter_ord))
+                if chr(int(letter_ord)) == 'X': #xddddddddddd
+                    x_counter += 1
+                    if x_counter == 3:
+                        final_password = password #xddddddddddd
+
+results.write(f"4.4\n{final_password}\n\n")
