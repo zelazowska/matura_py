@@ -1,0 +1,1122 @@
+id_wycieczki	kraj	miejsce	wylot	data_od	data_do	cena
+1	Tunezja	Djerba	Krakow	2015-07-07	2015-07-21	1990
+2	Grecja	Rodos	Poznan	2015-07-28	2015-08-11	3599
+3	Turcja	Alanya	Warszawa	2015-07-24	2015-08-07	1879
+4	Egipt	Hurgada	Wroclaw	2015-07-03	2015-07-10	1450
+5	Tunezja	Djerba	Katowice	2015-08-02	2015-08-16	2190
+6	Grecja	Kos	Gdansk	2015-06-29	2015-07-06	1870
+7	Turcja	Belek	Warszawa	2015-07-07	2015-07-21	3109
+8	Hiszpania	Teneryfa	Katowice	2015-07-12	2015-07-26	4299
+9	Grecja	Kreta	Lodz	2015-06-27	2015-07-04	2150
+10	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-12	2015-08-26	1810
+11	Maroko	Casablanca	Katowice	2015-07-07	2015-07-21	3349
+12	Grecja	Kos	Warszawa	2015-07-25	2015-08-08	3490
+13	Maroko	Casablanca	Wroclaw	2015-06-22	2015-07-06	3349
+14	Bulgaria	Sveti Vlas	Gdansk	2015-07-05	2015-07-12	999
+15	Turcja	Kemer	Katowice	2015-06-15	2015-06-22	1690
+16	Grecja	Kreta	Krakow	2015-06-30	2015-07-07	2150
+17	Turcja	Belek	Gdansk	2015-07-01	2015-07-08	1359
+18	Maroko	Agadir	Poznan	2015-06-14	2015-06-21	2125
+19	Egipt	Hurgada	Warszawa	2015-07-03	2015-07-10	1450
+20	Egipt	Marsa Alam	Katowice	2015-07-29	2015-08-12	2750
+21	Turcja	Belek	Krakow	2015-06-30	2015-07-07	1359
+22	Grecja	Rodos	Warszawa	2015-06-25	2015-07-09	3299
+23	Turcja	Antalya	Warszawa	2015-06-27	2015-07-04	1499
+24	Bulgaria	Sveti Vlas	Lodz	2015-06-03	2015-06-10	950
+25	Egipt	Sharm El Sheikh	Poznan	2015-07-25	2015-08-08	2790
+26	Hiszpania	Majorka	Lodz	2015-06-30	2015-07-07	2250
+27	Maroko	Casablanca	Warszawa	2015-07-03	2015-07-17	3349
+28	Maroko	Agadir	Krakow	2015-07-01	2015-07-08	2125
+29	Turcja	Alanya	Lodz	2015-07-21	2015-07-28	1079
+30	Bulgaria	Sveti Vlas	Lodz	2015-06-10	2015-06-17	950
+31	Tunezja	Djerba	Warszawa	2015-07-06	2015-07-20	1990
+32	Tunezja	Nabeul	Wroclaw	2015-08-10	2015-08-17	1190
+33	Tunezja	Mahdia	Katowice	2015-07-04	2015-07-11	1370
+34	Tunezja	Hammamet	Gdansk	2015-07-01	2015-07-08	1390
+35	Hiszpania	Majorka	Wroclaw	2015-07-04	2015-07-11	2250
+36	Egipt	Sharm El Sheikh	Katowice	2015-06-25	2015-07-02	1490
+37	Hiszpania	Fuerteventura	Warszawa	2015-07-02	2015-07-13	2770
+38	Egipt	Hurgada	Wroclaw	2015-07-31	2015-08-14	2550
+39	Maroko	Agadir	Gdansk	2015-06-26	2015-07-03	2125
+40	Tunezja	Monastir	Lodz	2015-07-09	2015-07-16	1390
+41	Hiszpania	Gran Canaria	Lodz	2015-07-15	2015-07-22	1999
+42	Tunezja	Djerba	Warszawa	2015-07-20	2015-07-27	1190
+43	Egipt	Marsa Alam	Gdansk	2015-07-24	2015-08-07	2990
+44	Hiszpania	Teneryfa	Wroclaw	2015-07-06	2015-07-13	2599
+45	Turcja	Kemer	Warszawa	2015-08-02	2015-08-16	3190
+46	Tunezja	Monastir	Gdansk	2015-08-12	2015-08-26	2690
+47	Egipt	Hurgada	Katowice	2015-07-23	2015-07-30	1520
+48	Grecja	Kos	Wroclaw	2015-07-16	2015-07-30	3490
+49	Hiszpania	Fuerteventura	Wroclaw	2015-07-02	2015-07-13	2770
+50	Tunezja	Nabeul	Gdansk	2015-07-01	2015-07-08	1190
+51	Hiszpania	Gran Canaria	Katowice	2015-07-07	2015-07-14	1999
+52	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-18	2015-07-28	1350
+53	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-01	2015-07-08	1110
+54	Hiszpania	Majorka	Gdansk	2015-06-22	2015-06-29	2250
+55	Turcja	Side	Krakow	2015-07-02	2015-07-09	1260
+56	Maroko	Casablanca	Wroclaw	2015-06-22	2015-06-29	1925
+57	Egipt	Marsa Alam	Katowice	2015-07-08	2015-07-15	1590
+58	Maroko	Agadir	Katowice	2015-06-22	2015-06-29	2125
+59	Bulgaria	Sveti Vlas	Katowice	2015-07-07	2015-07-14	950
+60	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-02	2015-07-16	1725
+61	Grecja	Kreta	Lodz	2015-06-27	2015-07-11	3350
+62	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-03	2015-07-13	1470
+63	Hiszpania	Fuerteventura	Poznan	2015-07-01	2015-07-12	2770
+64	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-02	2015-07-09	1110
+65	Grecja	Kreta	Krakow	2015-06-30	2015-07-14	3350
+66	Egipt	Marsa Alam	Katowice	2015-08-12	2015-08-22	2955
+67	Tunezja	Sousse	Poznan	2015-08-01	2015-08-15	1899
+68	Hiszpania	Majorka	Katowice	2015-07-27	2015-08-03	2350
+69	Turcja	Side	Warszawa	2015-07-10	2015-07-17	1260
+70	Maroko	Agadir	Poznan	2015-06-21	2015-06-28	2125
+71	Grecja	Kreta	Gdansk	2015-07-05	2015-07-12	2150
+72	Maroko	Casablanca	Warszawa	2015-07-03	2015-07-10	1925
+73	Maroko	Casablanca	Wroclaw	2015-07-06	2015-07-20	3349
+74	Egipt	Hurgada	Poznan	2015-07-03	2015-07-10	1520
+75	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-02	2015-07-12	1470
+76	Tunezja	Mahdia	Lodz	2015-07-08	2015-07-15	1370
+77	Hiszpania	Gran Canaria	Gdansk	2015-07-01	2015-07-08	1999
+78	Maroko	Casablanca	Warszawa	2015-07-10	2015-07-24	3349
+79	Turcja	Alanya	Gdansk	2015-06-22	2015-06-29	976
+80	Maroko	Agadir	Wroclaw	2015-06-15	2015-06-22	2125
+81	Hiszpania	Teneryfa	Katowice	2015-08-09	2015-08-16	2599
+82	Grecja	Kreta	Katowice	2015-06-29	2015-07-13	3350
+83	Egipt	Hurgada	Gdansk	2015-07-02	2015-07-09	1520
+84	Egipt	Sharm El Sheikh	Katowice	2015-07-16	2015-07-26	1990
+85	Hiszpania	Gran Canaria	Warszawa	2015-07-01	2015-07-08	1999
+86	Bulgaria	Sveti Vlas	Katowice	2015-07-07	2015-07-21	1625
+87	Maroko	Casablanca	Poznan	2015-06-30	2015-07-07	1925
+88	Bulgaria	Sveti Vlas	Wroclaw	2015-06-22	2015-06-29	959
+89	Tunezja	Mahdia	Katowice	2015-08-15	2015-08-29	3090
+90	Hiszpania	Gran Canaria	Krakow	2015-07-08	2015-07-15	1999
+91	Egipt	Hurgada	Katowice	2015-07-09	2015-07-16	1520
+92	Maroko	Agadir	Gdansk	2015-07-03	2015-07-10	2125
+93	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-09	2015-08-23	1810
+94	Hiszpania	Teneryfa	Gdansk	2015-07-20	2015-07-27	2599
+95	Grecja	Rodos	Warszawa	2015-06-25	2015-07-02	1599
+96	Tunezja	Djerba	Gdansk	2015-06-29	2015-07-13	1990
+97	Maroko	Casablanca	Katowice	2015-07-07	2015-07-14	1925
+98	Grecja	Kos	Krakow	2015-06-30	2015-07-07	1970
+99	Bulgaria	Sveti Vlas	Warszawa	2015-07-15	2015-07-22	1059
+100	Turcja	Belek	Lodz	2015-07-20	2015-08-03	2599
+101	Hiszpania	Gran Canaria	Warszawa	2015-07-29	2015-08-12	4199
+102	Egipt	Hurgada	Poznan	2015-07-03	2015-07-17	2625
+103	Maroko	Casablanca	Gdansk	2015-07-02	2015-07-09	1925
+104	Egipt	Marsa Alam	Poznan	2015-07-04	2015-07-11	1620
+105	Egipt	Sharm El Sheikh	Katowice	2015-08-20	2015-08-31	2290
+106	Tunezja	Djerba	Lodz	2015-06-30	2015-07-07	1190
+107	Tunezja	Djerba	Gdansk	2015-06-29	2015-07-06	1190
+108	Tunezja	Monastir	Katowice	2015-08-10	2015-08-17	1590
+109	Grecja	Kos	Krakow	2015-06-30	2015-07-14	3490
+110	Maroko	Agadir	Krakow	2015-07-08	2015-07-15	2125
+111	Grecja	Kreta	Poznan	2015-06-28	2015-07-05	2150
+112	Hiszpania	Teneryfa	Katowice	2015-08-30	2015-09-13	4299
+113	Hiszpania	Teneryfa	Gdansk	2015-07-20	2015-08-03	4299
+114	Egipt	Marsa Alam	Warszawa	2015-06-22	2015-06-29	1520
+115	Egipt	Sharm El Sheikh	Wroclaw	2015-07-01	2015-07-08	1490
+116	Tunezja	Nabeul	Poznan	2015-08-25	2015-09-08	1999
+117	Maroko	Casablanca	Lodz	2015-07-04	2015-07-18	3349
+118	Grecja	Kos	Lodz	2015-07-03	2015-07-17	3490
+119	Hiszpania	Gran Canaria	Wroclaw	2015-07-05	2015-07-12	1999
+120	Bulgaria	Sveti Vlas	Warszawa	2015-07-15	2015-07-29	1625
+121	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-15	2015-07-29	1625
+122	Turcja	Belek	Warszawa	2015-07-07	2015-07-14	1269
+123	Maroko	Casablanca	Warszawa	2015-07-10	2015-07-17	1925
+124	Egipt	Sharm El Sheikh	Warszawa	2015-07-01	2015-07-08	1490
+125	Bulgaria	Sveti Vlas	Warszawa	2015-07-22	2015-07-29	1059
+126	Hiszpania	Fuerteventura	Katowice	2015-08-28	2015-09-08	2870
+127	Tunezja	Monastir	Lodz	2015-07-02	2015-07-16	2490
+128	Hiszpania	Teneryfa	Warszawa	2015-07-10	2015-07-17	2599
+129	Maroko	Casablanca	Warszawa	2015-07-17	2015-07-31	3349
+130	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-15	2015-07-22	1050
+131	Hiszpania	Gran Canaria	Gdansk	2015-07-08	2015-07-15	1999
+132	Turcja	Belek	Warszawa	2015-07-21	2015-08-04	3109
+133	Grecja	Kos	Krakow	2015-07-14	2015-07-21	1970
+134	Grecja	Kos	Warszawa	2015-07-04	2015-07-11	1950
+135	Maroko	Casablanca	Warszawa	2015-07-17	2015-07-24	1925
+136	Grecja	Rodos	Gdansk	2015-06-29	2015-07-06	1599
+137	Maroko	Casablanca	Warszawa	2015-07-24	2015-08-07	3349
+138	Egipt	Marsa Alam	Wroclaw	2015-06-29	2015-07-13	2199
+139	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-12	2015-08-22	1510
+140	Bulgaria	Sveti Vlas	Lodz	2015-06-17	2015-06-24	950
+141	Tunezja	Nabeul	Warszawa	2015-07-20	2015-08-03	1999
+142	Tunezja	Hammamet	Wroclaw	2015-06-15	2015-06-22	1390
+143	Turcja	Kemer	Gdansk	2015-08-01	2015-08-08	1790
+144	Grecja	Kreta	Krakow	2015-07-14	2015-07-21	2150
+145	Tunezja	Mahdia	Gdansk	2015-07-05	2015-07-12	1370
+146	Grecja	Rodos	Katowice	2015-06-25	2015-07-02	1599
+147	Maroko	Agadir	Poznan	2015-06-28	2015-07-05	2125
+148	Egipt	Marsa Alam	Warszawa	2015-07-06	2015-07-16	2160
+149	Hiszpania	Gran Canaria	Lodz	2015-07-22	2015-07-29	1999
+150	Grecja	Kreta	Poznan	2015-06-28	2015-07-12	3350
+151	Hiszpania	Gran Canaria	Wroclaw	2015-08-02	2015-08-16	4199
+152	Bulgaria	Sveti Vlas	Poznan	2015-06-15	2015-06-22	999
+153	Turcja	Antalya	Gdansk	2015-06-27	2015-07-11	2269
+154	Maroko	Casablanca	Krakow	2015-07-02	2015-07-16	3349
+155	Grecja	Kreta	Lodz	2015-07-04	2015-07-11	2150
+156	Egipt	Marsa Alam	Katowice	2015-08-26	2015-09-05	2955
+157	Maroko	Casablanca	Wroclaw	2015-07-06	2015-07-13	1925
+158	Tunezja	Sousse	Warszawa	2015-07-01	2015-07-08	959
+159	Egipt	Marsa Alam	Katowice	2015-07-29	2015-08-09	3050
+160	Egipt	Hurgada	Warszawa	2015-07-17	2015-07-27	1950
+161	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-09	2015-07-23	1725
+162	Hiszpania	Majorka	Katowice	2015-08-10	2015-08-17	2450
+163	Bulgaria	Sveti Vlas	Wroclaw	2015-06-22	2015-07-06	1625
+164	Hiszpania	Fuerteventura	Wroclaw	2015-07-09	2015-07-20	2770
+165	Egipt	Hurgada	Poznan	2015-07-17	2015-07-24	1520
+166	Tunezja	Djerba	Lodz	2015-06-30	2015-07-14	1990
+167	Hiszpania	Teneryfa	Gdansk	2015-07-27	2015-08-03	2599
+168	Egipt	Marsa Alam	Gdansk	2015-07-03	2015-07-10	1590
+169	Egipt	Sharm El Sheikh	Katowice	2015-08-06	2015-08-17	2290
+170	Bulgaria	Sveti Vlas	Wroclaw	2015-06-29	2015-07-06	959
+171	Grecja	Kreta	Krakow	2015-07-14	2015-07-28	3350
+172	Grecja	Kos	Wroclaw	2015-07-02	2015-07-09	1950
+173	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-09	2015-07-23	1725
+174	Egipt	Hurgada	Gdansk	2015-07-04	2015-07-18	2625
+175	Turcja	Side	Krakow	2015-07-02	2015-07-16	2390
+176	Tunezja	Monastir	Wroclaw	2015-07-26	2015-08-09	2490
+177	Maroko	Agadir	Poznan	2015-07-05	2015-07-12	2125
+178	Tunezja	Hammamet	Lodz	2015-08-01	2015-08-15	2790
+179	Turcja	Alanya	Lodz	2015-06-30	2015-07-07	976
+180	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-09	2015-08-16	1250
+181	Tunezja	Nabeul	Lodz	2015-07-21	2015-08-04	1999
+182	Maroko	Agadir	Warszawa	2015-06-23	2015-06-30	2125
+183	Maroko	Casablanca	Warszawa	2015-07-24	2015-07-31	1925
+184	Tunezja	Mahdia	Wroclaw	2015-07-13	2015-07-27	2890
+185	Grecja	Kos	Katowice	2015-06-22	2015-06-29	1870
+186	Tunezja	Mahdia	Warszawa	2015-08-11	2015-08-25	3090
+187	Maroko	Agadir	Krakow	2015-07-15	2015-07-22	2125
+188	Grecja	Rodos	Gdansk	2015-06-29	2015-07-13	3299
+189	Hiszpania	Teneryfa	Poznan	2015-07-20	2015-07-27	2599
+190	Egipt	Sharm El Sheikh	Wroclaw	2015-07-15	2015-07-29	2659
+191	Hiszpania	Gran Canaria	Gdansk	2015-07-15	2015-07-22	1999
+192	Tunezja	Monastir	Gdansk	2015-07-01	2015-07-08	1390
+193	Maroko	Agadir	Wroclaw	2015-06-22	2015-06-29	2125
+194	Hiszpania	Majorka	Wroclaw	2015-07-11	2015-07-18	2250
+195	Egipt	Marsa Alam	Katowice	2015-07-15	2015-07-26	2380
+196	Tunezja	Sousse	Katowice	2015-07-01	2015-07-08	959
+197	Turcja	Belek	Warszawa	2015-07-21	2015-07-28	1269
+198	Grecja	Kreta	Gdansk	2015-07-05	2015-07-19	3350
+199	Turcja	Alanya	Krakow	2015-06-22	2015-07-06	1525
+200	Maroko	Casablanca	Krakow	2015-07-02	2015-07-09	1925
+201	Turcja	Belek	Katowice	2015-07-01	2015-07-15	2599
+202	Hiszpania	Gran Canaria	Poznan	2015-07-14	2015-07-21	1999
+203	Maroko	Casablanca	Lodz	2015-07-04	2015-07-11	1925
+204	Maroko	Agadir	Krakow	2015-07-22	2015-07-29	2125
+205	Turcja	Belek	Gdansk	2015-09-01	2015-09-15	2399
+206	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-17	2015-06-27	1350
+207	Egipt	Hurgada	Warszawa	2015-07-31	2015-08-11	2150
+208	Egipt	Hurgada	Wroclaw	2015-07-10	2015-07-17	1450
+209	Egipt	Hurgada	Katowice	2015-07-09	2015-07-19	1950
+210	Bulgaria	Sloneczny Brzeg	Poznan	2015-07-02	2015-07-16	1725
+211	Turcja	Kemer	Lodz	2015-07-10	2015-07-24	3190
+212	Turcja	Alanya	Krakow	2015-06-22	2015-06-29	976
+213	Tunezja	Monastir	Gdansk	2015-08-26	2015-09-09	2690
+214	Grecja	Kreta	Lodz	2015-07-04	2015-07-18	3350
+215	Egipt	Sharm El Sheikh	Warszawa	2015-07-01	2015-07-11	1990
+216	Egipt	Hurgada	Katowice	2015-07-23	2015-08-02	1950
+217	Hiszpania	Teneryfa	Katowice	2015-07-12	2015-07-19	2599
+218	Grecja	Kreta	Katowice	2015-06-29	2015-07-06	2150
+219	Grecja	Rodos	Krakow	2015-06-25	2015-07-09	3299
+220	Maroko	Agadir	Warszawa	2015-07-07	2015-07-14	2125
+221	Grecja	Kos	Katowice	2015-07-20	2015-08-03	3490
+222	Maroko	Casablanca	Lodz	2015-07-11	2015-07-25	3349
+223	Maroko	Casablanca	Gdansk	2015-07-07	2015-07-21	3349
+224	Egipt	Sharm El Sheikh	Katowice	2015-07-06	2015-07-20	2690
+225	Maroko	Casablanca	Wroclaw	2015-07-20	2015-08-03	3349
+226	Egipt	Marsa Alam	Gdansk	2015-07-31	2015-08-14	2990
+227	Tunezja	Nabeul	Krakow	2015-07-09	2015-07-16	1190
+228	Tunezja	Sousse	Wroclaw	2015-08-13	2015-08-27	1899
+229	Turcja	Side	Poznan	2015-08-04	2015-08-18	2390
+230	Grecja	Kreta	Poznan	2015-07-05	2015-07-12	2150
+231	Bulgaria	Sveti Vlas	Lodz	2015-06-24	2015-07-01	950
+232	Hiszpania	Teneryfa	Katowice	2015-07-19	2015-08-02	4299
+233	Maroko	Agadir	Wroclaw	2015-06-29	2015-07-06	2125
+234	Maroko	Casablanca	Warszawa	2015-07-31	2015-08-14	3349
+235	Hiszpania	Fuerteventura	Wroclaw	2015-07-16	2015-07-27	2770
+236	Maroko	Agadir	Gdansk	2015-07-10	2015-07-17	2125
+237	Tunezja	Hammamet	Gdansk	2015-07-15	2015-07-22	1390
+238	Bulgaria	Sveti Vlas	Poznan	2015-06-22	2015-06-29	999
+239	Turcja	Belek	Warszawa	2015-08-04	2015-08-18	3109
+240	Turcja	Kemer	Lodz	2015-07-10	2015-07-17	1890
+241	Tunezja	Monastir	Gdansk	2015-07-15	2015-07-22	1390
+242	Turcja	Belek	Wroclaw	2015-08-18	2015-09-01	3109
+243	Tunezja	Monastir	Katowice	2015-09-07	2015-09-21	2490
+244	Egipt	Sharm El Sheikh	Katowice	2015-07-02	2015-07-09	1490
+245	Turcja	Kemer	Poznan	2015-07-02	2015-07-16	3190
+246	Hiszpania	Gran Canaria	Krakow	2015-07-15	2015-07-22	1999
+247	Turcja	Belek	Lodz	2015-07-06	2015-07-13	1499
+248	Hiszpania	Majorka	Katowice	2015-08-24	2015-08-31	2450
+249	Maroko	Agadir	Poznan	2015-07-12	2015-07-19	2125
+250	Maroko	Agadir	Lodz	2015-06-22	2015-06-29	2125
+251	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-19	2015-09-02	1810
+252	Hiszpania	Majorka	Wroclaw	2015-07-18	2015-07-25	2250
+253	Grecja	Kos	Wroclaw	2015-07-23	2015-08-06	3490
+254	Grecja	Rodos	Wroclaw	2015-06-24	2015-07-01	1599
+255	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-17	2015-07-01	1535
+256	Hiszpania	Majorka	Warszawa	2015-07-02	2015-07-09	2250
+257	Egipt	Hurgada	Krakow	2015-07-03	2015-07-10	1520
+258	Tunezja	Nabeul	Krakow	2015-08-06	2015-08-20	1999
+259	Grecja	Rodos	Wroclaw	2015-07-22	2015-08-05	3599
+260	Egipt	Sharm El Sheikh	Warszawa	2015-07-22	2015-08-02	2290
+261	Tunezja	Nabeul	Krakow	2015-07-16	2015-07-23	1190
+262	Turcja	Alanya	Warszawa	2015-07-03	2015-07-10	1079
+263	Maroko	Casablanca	Lodz	2015-07-11	2015-07-18	1925
+264	Turcja	Belek	Lodz	2015-07-27	2015-08-10	2599
+265	Grecja	Rodos	Warszawa	2015-07-02	2015-07-16	3599
+266	Grecja	Rodos	Poznan	2015-06-30	2015-07-07	1599
+267	Egipt	Marsa Alam	Gdansk	2015-07-10	2015-07-17	1590
+268	Grecja	Kos	Lodz	2015-07-03	2015-07-10	1950
+269	Turcja	Antalya	Katowice	2015-07-04	2015-07-11	1059
+270	Maroko	Casablanca	Krakow	2015-07-09	2015-07-23	3349
+271	Turcja	Alanya	Gdansk	2015-06-22	2015-07-06	1525
+272	Turcja	Antalya	Krakow	2015-07-18	2015-07-25	1059
+273	Egipt	Sharm El Sheikh	Poznan	2015-08-01	2015-08-08	1590
+274	Egipt	Sharm El Sheikh	Katowice	2015-07-23	2015-08-02	1990
+275	Grecja	Rodos	Katowice	2015-06-25	2015-07-09	3299
+276	Hiszpania	Teneryfa	Warszawa	2015-07-24	2015-08-07	4299
+277	Grecja	Kreta	Warszawa	2015-06-26	2015-07-03	2150
+278	Maroko	Agadir	Katowice	2015-06-29	2015-07-06	2125
+279	Tunezja	Monastir	Poznan	2015-08-06	2015-08-13	1590
+280	Turcja	Kemer	Poznan	2015-07-02	2015-07-09	1990
+281	Turcja	Alanya	Katowice	2015-06-22	2015-06-29	976
+282	Egipt	Marsa Alam	Warszawa	2015-07-20	2015-07-31	2380
+283	Egipt	Sharm El Sheikh	Poznan	2015-08-01	2015-08-15	2790
+284	Maroko	Agadir	Wroclaw	2015-07-06	2015-07-13	2125
+285	Hiszpania	Gran Canaria	Lodz	2015-07-29	2015-08-05	1999
+286	Tunezja	Sousse	Katowice	2015-07-16	2015-07-30	1699
+287	Grecja	Kreta	Wroclaw	2015-06-22	2015-06-29	2150
+288	Hiszpania	Fuerteventura	Lodz	2015-07-01	2015-07-12	2770
+289	Grecja	Kos	Lodz	2015-07-10	2015-07-24	3490
+290	Tunezja	Nabeul	Krakow	2015-08-13	2015-08-27	1999
+291	Hiszpania	Teneryfa	Poznan	2015-08-20	2015-09-03	4299
+292	Grecja	Rodos	Lodz	2015-08-10	2015-08-24	3599
+293	Tunezja	Mahdia	Wroclaw	2015-06-29	2015-07-06	1370
+294	Maroko	Casablanca	Lodz	2015-07-18	2015-08-01	3349
+295	Tunezja	Djerba	Lodz	2015-07-14	2015-07-21	1190
+296	Hiszpania	Gran Canaria	Warszawa	2015-07-08	2015-07-15	1999
+297	Grecja	Rodos	Krakow	2015-06-25	2015-07-02	1599
+298	Hiszpania	Fuerteventura	Poznan	2015-07-08	2015-07-19	2770
+299	Turcja	Belek	Krakow	2015-06-30	2015-07-14	2599
+300	Hiszpania	Fuerteventura	Warszawa	2015-07-09	2015-07-20	2770
+301	Maroko	Agadir	Katowice	2015-07-06	2015-07-13	2125
+302	Maroko	Casablanca	Krakow	2015-07-09	2015-07-16	1925
+303	Turcja	Alanya	Lodz	2015-07-28	2015-08-04	1079
+304	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-01	2015-07-15	1635
+305	Bulgaria	Sloneczny Brzeg	Katowice	2015-07-02	2015-07-09	1110
+306	Grecja	Rodos	Warszawa	2015-07-02	2015-07-09	2099
+307	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-09	2015-07-16	1110
+308	Grecja	Rodos	Katowice	2015-07-09	2015-07-16	2099
+309	Hiszpania	Fuerteventura	Katowice	2015-09-08	2015-09-19	2770
+310	Bulgaria	Sveti Vlas	Gdansk	2015-07-12	2015-07-19	999
+311	Maroko	Casablanca	Poznan	2015-06-30	2015-07-14	3349
+312	Turcja	Alanya	Warszawa	2015-07-31	2015-08-14	1879
+313	Turcja	Kemer	Lodz	2015-07-17	2015-07-31	3190
+314	Hiszpania	Teneryfa	Katowice	2015-07-19	2015-07-26	2599
+315	Maroko	Agadir	Krakow	2015-07-29	2015-08-05	2125
+316	Turcja	Side	Katowice	2015-06-30	2015-07-07	1260
+317	Grecja	Rodos	Warszawa	2015-07-09	2015-07-23	3599
+318	Grecja	Kreta	Gdansk	2015-07-12	2015-07-19	2150
+319	Hiszpania	Majorka	Gdansk	2015-07-06	2015-07-13	2350
+320	Maroko	Agadir	Krakow	2015-08-05	2015-08-12	2515
+321	Hiszpania	Gran Canaria	Krakow	2015-07-22	2015-07-29	1999
+322	Maroko	Agadir	Krakow	2015-08-12	2015-08-19	2515
+323	Bulgaria	Sveti Vlas	Lodz	2015-07-01	2015-07-08	1100
+324	Maroko	Casablanca	Lodz	2015-07-18	2015-07-25	1925
+325	Grecja	Kos	Warszawa	2015-08-01	2015-08-15	3490
+326	Turcja	Alanya	Krakow	2015-07-06	2015-07-20	1879
+327	Turcja	Antalya	Warszawa	2015-07-11	2015-07-25	3109
+328	Tunezja	Mahdia	Warszawa	2015-07-07	2015-07-14	1370
+329	Tunezja	Mahdia	Wroclaw	2015-07-20	2015-08-03	2890
+330	Maroko	Casablanca	Lodz	2015-07-25	2015-08-08	3349
+331	Bulgaria	Sveti Vlas	Wroclaw	2015-06-29	2015-07-13	1625
+332	Hiszpania	Fuerteventura	Warszawa	2015-07-16	2015-07-27	2770
+333	Bulgaria	Sveti Vlas	Gdansk	2015-07-19	2015-07-26	999
+334	Egipt	Hurgada	Katowice	2015-08-24	2015-09-04	2150
+335	Bulgaria	Sveti Vlas	Warszawa	2015-07-22	2015-08-05	1625
+336	Grecja	Kreta	Krakow	2015-07-28	2015-08-04	2150
+337	Bulgaria	Sveti Vlas	Wroclaw	2015-07-06	2015-07-13	1059
+338	Turcja	Belek	Wroclaw	2015-07-07	2015-07-14	1269
+339	Turcja	Antalya	Krakow	2015-08-08	2015-08-22	2679
+340	Tunezja	Nabeul	Warszawa	2015-07-06	2015-07-13	1190
+341	Egipt	Hurgada	Wroclaw	2015-08-07	2015-08-21	2550
+342	Egipt	Sharm El Sheikh	Warszawa	2015-08-05	2015-08-19	2659
+343	Turcja	Kemer	Lodz	2015-07-17	2015-07-24	1890
+344	Turcja	Belek	Gdansk	2015-08-01	2015-08-08	1359
+345	Turcja	Belek	Krakow	2015-07-07	2015-07-14	1359
+346	Hiszpania	Majorka	Warszawa	2015-07-09	2015-07-16	2250
+347	Maroko	Agadir	Poznan	2015-07-19	2015-07-26	2125
+348	Maroko	Agadir	Wroclaw	2015-07-13	2015-07-20	2125
+349	Tunezja	Sousse	Warszawa	2015-08-01	2015-08-15	1899
+350	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-25	2015-08-04	1350
+351	Egipt	Marsa Alam	Warszawa	2015-08-03	2015-08-17	3665
+352	Bulgaria	Sveti Vlas	Katowice	2015-07-14	2015-07-21	950
+353	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-15	2015-07-22	1110
+354	Grecja	Kos	Gdansk	2015-06-29	2015-07-13	3490
+355	Egipt	Sharm El Sheikh	Wroclaw	2015-07-08	2015-07-15	1490
+356	Hiszpania	Gran Canaria	Gdansk	2015-07-22	2015-07-29	1999
+357	Grecja	Rodos	Krakow	2015-07-09	2015-07-23	3599
+358	Turcja	Belek	Katowice	2015-07-01	2015-07-08	1359
+359	Tunezja	Djerba	Wroclaw	2015-07-15	2015-07-29	1990
+360	Bulgaria	Sveti Vlas	Lodz	2015-07-08	2015-07-15	1100
+361	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-16	2015-08-30	1810
+362	Grecja	Rodos	Katowice	2015-07-09	2015-07-23	3599
+363	Tunezja	Hammamet	Warszawa	2015-07-15	2015-07-29	2790
+364	Egipt	Marsa Alam	Katowice	2015-07-08	2015-07-22	2750
+365	Bulgaria	Sveti Vlas	Krakow	2015-07-07	2015-07-14	950
+366	Hiszpania	Majorka	Warszawa	2015-07-16	2015-07-23	2250
+367	Hiszpania	Gran Canaria	Poznan	2015-07-21	2015-07-28	1999
+368	Tunezja	Djerba	Poznan	2015-08-13	2015-08-27	2190
+369	Egipt	Hurgada	Katowice	2015-08-27	2015-09-10	2625
+370	Turcja	Belek	Krakow	2015-07-07	2015-07-21	2599
+371	Maroko	Agadir	Lodz	2015-06-29	2015-07-06	2125
+372	Tunezja	Nabeul	Lodz	2015-06-30	2015-07-07	1190
+373	Maroko	Agadir	Gdansk	2015-07-17	2015-07-24	2125
+374	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-10	2015-07-20	1470
+375	Egipt	Hurgada	Krakow	2015-07-03	2015-07-17	2625
+376	Hiszpania	Teneryfa	Gdansk	2015-07-27	2015-08-10	4299
+377	Hiszpania	Teneryfa	Wroclaw	2015-07-10	2015-07-24	4299
+378	Turcja	Belek	Warszawa	2015-08-04	2015-08-11	1269
+379	Hiszpania	Majorka	Katowice	2015-09-07	2015-09-14	2250
+380	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-02	2015-07-09	1110
+381	Grecja	Kreta	Gdansk	2015-07-12	2015-07-26	3350
+382	Tunezja	Mahdia	Lodz	2015-07-22	2015-08-05	2890
+383	Hiszpania	Teneryfa	Warszawa	2015-07-17	2015-07-24	2599
+384	Bulgaria	Sveti Vlas	Poznan	2015-06-29	2015-07-06	999
+385	Turcja	Alanya	Lodz	2015-07-07	2015-07-14	1079
+386	Turcja	Alanya	Lodz	2015-08-04	2015-08-11	1079
+387	Hiszpania	Fuerteventura	Poznan	2015-07-15	2015-07-26	2770
+388	Turcja	Alanya	Katowice	2015-07-20	2015-08-03	1879
+389	Grecja	Kreta	Lodz	2015-07-11	2015-07-18	2150
+390	Maroko	Casablanca	Warszawa	2015-07-31	2015-08-07	1925
+391	Grecja	Kreta	Gdansk	2015-07-19	2015-07-26	2150
+392	Tunezja	Sousse	Wroclaw	2015-07-02	2015-07-09	959
+393	Tunezja	Hammamet	Lodz	2015-07-04	2015-07-11	1390
+394	Turcja	Kemer	Lodz	2015-07-24	2015-08-07	3190
+395	Turcja	Antalya	Wroclaw	2015-07-25	2015-08-08	3109
+396	Egipt	Sharm El Sheikh	Warszawa	2015-07-08	2015-07-15	1490
+397	Grecja	Kos	Gdansk	2015-07-09	2015-07-16	1970
+398	Maroko	Agadir	Krakow	2015-08-19	2015-08-26	2515
+399	Tunezja	Hammamet	Wroclaw	2015-07-27	2015-08-10	2790
+400	Egipt	Hurgada	Warszawa	2015-08-14	2015-08-28	2550
+401	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-05	2015-08-12	1240
+402	Hiszpania	Fuerteventura	Poznan	2015-07-22	2015-08-02	2770
+403	Egipt	Marsa Alam	Katowice	2015-07-22	2015-08-05	2750
+404	Turcja	Alanya	Poznan	2015-07-05	2015-07-12	1079
+405	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-08	2015-07-22	1635
+406	Grecja	Rodos	Wroclaw	2015-07-01	2015-07-08	2099
+407	Maroko	Agadir	Wroclaw	2015-07-20	2015-07-27	2125
+408	Turcja	Alanya	Krakow	2015-07-06	2015-07-13	1079
+409	Maroko	Casablanca	Poznan	2015-07-14	2015-07-21	1925
+410	Turcja	Kemer	Poznan	2015-08-02	2015-08-16	3190
+411	Egipt	Sharm El Sheikh	Krakow	2015-07-14	2015-07-28	2690
+412	Egipt	Sharm El Sheikh	Gdansk	2015-07-01	2015-07-08	1490
+413	Tunezja	Mahdia	Poznan	2015-08-12	2015-08-26	3090
+414	Tunezja	Monastir	Poznan	2015-08-20	2015-09-03	2790
+415	Egipt	Sharm El Sheikh	Gdansk	2015-08-12	2015-08-26	2690
+416	Hiszpania	Gran Canaria	Warszawa	2015-08-05	2015-08-19	4199
+417	Tunezja	Hammamet	Lodz	2015-08-15	2015-08-29	2790
+418	Tunezja	Sousse	Lodz	2015-07-01	2015-07-08	959
+419	Tunezja	Sousse	Katowice	2015-07-15	2015-07-22	959
+420	Maroko	Agadir	Lodz	2015-07-06	2015-07-13	2125
+421	Bulgaria	Sveti Vlas	Krakow	2015-07-14	2015-07-21	950
+422	Maroko	Agadir	Warszawa	2015-07-21	2015-07-28	2125
+423	Tunezja	Monastir	Wroclaw	2015-07-19	2015-07-26	1390
+424	Hiszpania	Gran Canaria	Poznan	2015-07-28	2015-08-04	1999
+425	Egipt	Hurgada	Poznan	2015-07-17	2015-07-31	2625
+426	Egipt	Hurgada	Warszawa	2015-07-10	2015-07-17	1450
+427	Turcja	Belek	Lodz	2015-07-13	2015-07-20	1499
+428	Maroko	Casablanca	Warszawa	2015-08-07	2015-08-21	3999
+429	Tunezja	Mahdia	Poznan	2015-07-29	2015-08-05	1370
+430	Tunezja	Nabeul	Katowice	2015-07-15	2015-07-29	1999
+431	Egipt	Marsa Alam	Poznan	2015-07-25	2015-08-08	3150
+432	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-22	2015-08-05	1625
+433	Bulgaria	Sveti Vlas	Krakow	2015-07-21	2015-07-28	950
+434	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-02	2015-07-16	1725
+435	Grecja	Kos	Poznan	2015-06-30	2015-07-07	1950
+436	Egipt	Marsa Alam	Katowice	2015-07-29	2015-08-05	1590
+437	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-19	2015-08-29	1510
+438	Maroko	Agadir	Gdansk	2015-07-24	2015-07-31	2125
+439	Hiszpania	Fuerteventura	Katowice	2015-09-19	2015-09-30	2770
+440	Grecja	Rodos	Warszawa	2015-07-09	2015-07-16	2099
+441	Bulgaria	Sveti Vlas	Wroclaw	2015-07-06	2015-07-20	1625
+442	Turcja	Antalya	Poznan	2015-07-03	2015-07-10	1259
+443	Tunezja	Hammamet	Katowice	2015-07-29	2015-08-05	1390
+444	Turcja	Kemer	Wroclaw	2015-07-11	2015-07-18	1990
+445	Tunezja	Mahdia	Poznan	2015-08-19	2015-09-02	3090
+446	Turcja	Antalya	Lodz	2015-07-01	2015-07-08	1259
+447	Egipt	Marsa Alam	Katowice	2015-07-01	2015-07-08	1590
+448	Turcja	Belek	Poznan	2015-06-30	2015-07-07	1499
+449	Grecja	Kreta	Warszawa	2015-06-26	2015-07-10	3350
+450	Tunezja	Djerba	Poznan	2015-07-02	2015-07-09	1190
+451	Bulgaria	Sveti Vlas	Wroclaw	2015-07-13	2015-07-20	1059
+452	Turcja	Antalya	Krakow	2015-07-25	2015-08-01	1059
+453	Grecja	Kreta	Lodz	2015-07-11	2015-07-25	3350
+454	Maroko	Casablanca	Katowice	2015-07-14	2015-07-28	3349
+455	Turcja	Alanya	Gdansk	2015-07-06	2015-07-13	1079
+456	Maroko	Casablanca	Wroclaw	2015-07-20	2015-07-27	1925
+457	Maroko	Casablanca	Gdansk	2015-07-09	2015-07-16	1925
+458	Grecja	Rodos	Lodz	2015-07-06	2015-07-13	2099
+459	Tunezja	Djerba	Gdansk	2015-07-13	2015-07-27	1990
+460	Maroko	Agadir	Poznan	2015-07-26	2015-08-02	2125
+461	Tunezja	Monastir	Lodz	2015-07-16	2015-07-23	1390
+462	Egipt	Sharm El Sheikh	Warszawa	2015-07-08	2015-07-18	1990
+463	Grecja	Kreta	Katowice	2015-07-06	2015-07-20	3350
+464	Grecja	Rodos	Gdansk	2015-07-13	2015-07-20	2099
+465	Egipt	Hurgada	Poznan	2015-07-31	2015-08-07	1520
+466	Hiszpania	Fuerteventura	Poznan	2015-07-29	2015-08-09	2770
+467	Tunezja	Nabeul	Warszawa	2015-07-27	2015-08-10	1999
+468	Tunezja	Hammamet	Wroclaw	2015-06-29	2015-07-06	1390
+469	Egipt	Hurgada	Katowice	2015-08-10	2015-08-21	2150
+470	Turcja	Kemer	Katowice	2015-06-29	2015-07-13	3190
+471	Grecja	Rodos	Krakow	2015-07-09	2015-07-16	2099
+472	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-22	2015-07-29	1050
+473	Maroko	Casablanca	Wroclaw	2015-08-03	2015-08-17	3999
+474	Grecja	Kreta	Poznan	2015-07-05	2015-07-19	3350
+475	Hiszpania	Teneryfa	Katowice	2015-07-26	2015-08-09	4299
+476	Maroko	Casablanca	Poznan	2015-07-14	2015-07-28	3349
+477	Tunezja	Monastir	Warszawa	2015-06-28	2015-07-05	1390
+478	Egipt	Sharm El Sheikh	Gdansk	2015-07-15	2015-07-22	1490
+479	Tunezja	Monastir	Warszawa	2015-07-12	2015-07-26	2490
+480	Egipt	Hurgada	Gdansk	2015-07-16	2015-07-23	1520
+481	Egipt	Sharm El Sheikh	Wroclaw	2015-07-22	2015-08-05	2659
+482	Maroko	Casablanca	Warszawa	2015-08-07	2015-08-14	2420
+483	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-08-01	2015-08-11	1410
+484	Maroko	Casablanca	Krakow	2015-07-16	2015-07-30	3349
+485	Turcja	Antalya	Poznan	2015-08-14	2015-08-28	2999
+486	Turcja	Belek	Krakow	2015-07-14	2015-07-21	1359
+487	Hiszpania	Fuerteventura	Wroclaw	2015-07-23	2015-08-03	2770
+488	Bulgaria	Sveti Vlas	Wroclaw	2015-07-13	2015-07-27	1625
+489	Egipt	Hurgada	Katowice	2015-07-16	2015-07-30	2625
+490	Turcja	Alanya	Katowice	2015-07-06	2015-07-13	1079
+491	Egipt	Sharm El Sheikh	Poznan	2015-08-08	2015-08-15	1590
+492	Egipt	Marsa Alam	Katowice	2015-07-01	2015-07-11	2160
+493	Bulgaria	Sveti Vlas	Katowice	2015-07-14	2015-07-28	1625
+494	Egipt	Marsa Alam	Wroclaw	2015-06-29	2015-07-06	1550
+495	Hiszpania	Majorka	Lodz	2015-07-07	2015-07-14	2350
+496	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-26	2015-09-09	1810
+497	Maroko	Casablanca	Warszawa	2015-08-14	2015-08-28	3999
+498	Turcja	Belek	Wroclaw	2015-07-07	2015-07-21	3109
+499	Hiszpania	Majorka	Warszawa	2015-07-23	2015-07-30	2250
+500	Turcja	Kemer	Katowice	2015-07-27	2015-08-10	3190
+501	Bulgaria	Sloneczny Brzeg	Katowice	2015-07-09	2015-07-16	1110
+502	Egipt	Sharm El Sheikh	Katowice	2015-07-20	2015-08-03	2690
+503	Grecja	Rodos	Warszawa	2015-07-16	2015-07-30	3599
+504	Maroko	Casablanca	Lodz	2015-07-25	2015-08-01	1925
+505	Maroko	Agadir	Poznan	2015-08-02	2015-08-09	2625
+506	Hiszpania	Majorka	Katowice	2015-06-29	2015-07-06	2250
+507	Hiszpania	Gran Canaria	Poznan	2015-08-04	2015-08-11	2299
+508	Maroko	Agadir	Wroclaw	2015-07-27	2015-08-03	2125
+509	Egipt	Marsa Alam	Katowice	2015-07-15	2015-07-22	1590
+510	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-12	2015-08-19	1240
+511	Maroko	Casablanca	Gdansk	2015-07-14	2015-07-28	3349
+512	Tunezja	Monastir	Lodz	2015-07-09	2015-07-23	2490
+513	Tunezja	Monastir	Katowice	2015-07-13	2015-07-27	2490
+514	Tunezja	Monastir	Lodz	2015-07-23	2015-07-30	1390
+515	Maroko	Agadir	Gdansk	2015-07-31	2015-08-07	2125
+516	Turcja	Kemer	Wroclaw	2015-07-11	2015-07-25	3190
+517	Maroko	Casablanca	Poznan	2015-07-28	2015-08-04	1925
+518	Hiszpania	Fuerteventura	Krakow	2015-07-02	2015-07-13	2770
+519	Egipt	Hurgada	Krakow	2015-07-17	2015-07-24	1520
+520	Egipt	Hurgada	Gdansk	2015-07-18	2015-08-01	2625
+521	Maroko	Casablanca	Wroclaw	2015-08-03	2015-08-10	2420
+522	Maroko	Agadir	Katowice	2015-07-13	2015-07-20	2125
+523	Tunezja	Djerba	Krakow	2015-07-07	2015-07-14	1190
+524	Grecja	Kreta	Katowice	2015-07-06	2015-07-13	2150
+525	Turcja	Side	Gdansk	2015-07-30	2015-08-13	2390
+526	Maroko	Casablanca	Katowice	2015-07-14	2015-07-21	1925
+527	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-29	2015-08-12	1625
+528	Grecja	Rodos	Wroclaw	2015-07-29	2015-08-12	3599
+529	Tunezja	Sousse	Wroclaw	2015-08-27	2015-09-10	1899
+530	Maroko	Casablanca	Poznan	2015-07-28	2015-08-11	3349
+531	Maroko	Agadir	Krakow	2015-08-26	2015-09-02	2515
+532	Tunezja	Sousse	Gdansk	2015-07-01	2015-07-08	959
+533	Egipt	Marsa Alam	Poznan	2015-07-11	2015-07-18	1620
+534	Egipt	Sharm El Sheikh	Warszawa	2015-07-29	2015-08-09	2290
+535	Hiszpania	Fuerteventura	Wroclaw	2015-07-30	2015-08-10	2770
+536	Maroko	Agadir	Gdansk	2015-08-07	2015-08-14	2525
+537	Egipt	Sharm El Sheikh	Krakow	2015-07-28	2015-08-11	2690
+538	Grecja	Rodos	Gdansk	2015-07-13	2015-07-27	3599
+539	Bulgaria	Sveti Vlas	Poznan	2015-07-06	2015-07-13	1099
+540	Turcja	Antalya	Wroclaw	2015-07-18	2015-07-25	1499
+541	Maroko	Casablanca	Wroclaw	2015-08-17	2015-08-31	3999
+542	Grecja	Rodos	Krakow	2015-07-23	2015-08-06	3599
+543	Tunezja	Sousse	Poznan	2015-07-01	2015-07-08	959
+544	Turcja	Kemer	Katowice	2015-07-06	2015-07-13	1690
+545	Grecja	Rodos	Gdansk	2015-07-27	2015-08-03	2099
+546	Tunezja	Sousse	Wroclaw	2015-07-16	2015-07-23	959
+547	Grecja	Kreta	Gdansk	2015-07-19	2015-08-02	3350
+548	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-22	2015-07-29	1110
+549	Tunezja	Hammamet	Krakow	2015-08-26	2015-09-09	2790
+550	Hiszpania	Gran Canaria	Katowice	2015-07-28	2015-08-11	4199
+551	Tunezja	Djerba	Krakow	2015-08-01	2015-08-15	2190
+552	Maroko	Agadir	Katowice	2015-07-20	2015-07-27	2125
+553	Hiszpania	Gran Canaria	Krakow	2015-07-29	2015-08-05	1999
+554	Hiszpania	Fuerteventura	Wroclaw	2015-08-06	2015-08-17	2870
+555	Hiszpania	Gran Canaria	Krakow	2015-08-05	2015-08-12	2299
+556	Grecja	Rodos	Krakow	2015-07-23	2015-07-30	2099
+557	Grecja	Kreta	Krakow	2015-07-28	2015-08-11	3350
+558	Bulgaria	Sveti Vlas	Gdansk	2015-07-26	2015-08-02	999
+559	Hiszpania	Fuerteventura	Krakow	2015-07-13	2015-07-24	2770
+560	Grecja	Rodos	Warszawa	2015-07-16	2015-07-23	2099
+561	Hiszpania	Majorka	Warszawa	2015-07-30	2015-08-06	2250
+562	Tunezja	Sousse	Warszawa	2015-08-01	2015-08-08	1159
+563	Bulgaria	Sveti Vlas	Katowice	2015-07-21	2015-07-28	950
+564	Tunezja	Nabeul	Poznan	2015-08-11	2015-08-18	1190
+565	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-07-29	2015-08-05	1050
+566	Hiszpania	Gran Canaria	Wroclaw	2015-07-12	2015-07-19	1999
+567	Turcja	Side	Warszawa	2015-07-10	2015-07-24	2390
+568	Turcja	Kemer	Lodz	2015-07-24	2015-07-31	1890
+569	Egipt	Marsa Alam	Katowice	2015-08-05	2015-08-15	2955
+570	Egipt	Marsa Alam	Gdansk	2015-08-07	2015-08-21	2990
+571	Hiszpania	Gran Canaria	Gdansk	2015-07-29	2015-08-05	1999
+572	Grecja	Kos	Krakow	2015-07-14	2015-07-28	3490
+573	Tunezja	Sousse	Wroclaw	2015-09-10	2015-09-24	1699
+574	Hiszpania	Gran Canaria	Krakow	2015-08-12	2015-08-19	2299
+575	Bulgaria	Sveti Vlas	Krakow	2015-07-28	2015-08-04	950
+576	Hiszpania	Teneryfa	Katowice	2015-07-26	2015-08-02	2599
+577	Grecja	Kos	Krakow	2015-07-28	2015-08-04	1970
+578	Grecja	Kos	Wroclaw	2015-07-09	2015-07-16	1950
+579	Turcja	Kemer	Katowice	2015-08-03	2015-08-17	3190
+580	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-17	2015-06-24	999
+581	Egipt	Sharm El Sheikh	Krakow	2015-07-14	2015-07-21	1490
+582	Egipt	Hurgada	Wroclaw	2015-07-17	2015-07-24	1450
+583	Maroko	Agadir	Wroclaw	2015-08-03	2015-08-10	2225
+584	Tunezja	Hammamet	Wroclaw	2015-08-10	2015-08-24	2790
+585	Turcja	Antalya	Poznan	2015-07-17	2015-07-24	1259
+586	Hiszpania	Majorka	Gdansk	2015-07-20	2015-07-27	2350
+587	Egipt	Hurgada	Katowice	2015-07-16	2015-07-23	1520
+588	Hiszpania	Majorka	Gdansk	2015-08-03	2015-08-10	2450
+589	Turcja	Antalya	Katowice	2015-07-11	2015-07-25	2679
+590	Egipt	Sharm El Sheikh	Gdansk	2015-08-26	2015-09-09	2690
+591	Egipt	Sharm El Sheikh	Krakow	2015-07-28	2015-08-04	1490
+592	Maroko	Agadir	Warszawa	2015-08-04	2015-08-11	2125
+593	Grecja	Kos	Lodz	2015-07-10	2015-07-17	1950
+594	Maroko	Casablanca	Lodz	2015-08-01	2015-08-15	3999
+595	Tunezja	Mahdia	Lodz	2015-07-15	2015-07-22	1370
+596	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-16	2015-08-23	1250
+597	Grecja	Kos	Poznan	2015-06-30	2015-07-14	3490
+598	Grecja	Rodos	Lodz	2015-08-17	2015-08-31	3599
+599	Grecja	Kreta	Warszawa	2015-07-03	2015-07-10	2150
+600	Turcja	Antalya	Lodz	2015-07-29	2015-08-12	2999
+601	Turcja	Kemer	Katowice	2015-06-22	2015-06-29	1690
+602	Hiszpania	Fuerteventura	Gdansk	2015-07-04	2015-07-15	2770
+603	Egipt	Hurgada	Poznan	2015-07-31	2015-08-14	2625
+604	Tunezja	Djerba	Warszawa	2015-07-20	2015-08-03	1990
+605	Turcja	Side	Warszawa	2015-07-17	2015-07-24	1260
+606	Egipt	Sharm El Sheikh	Katowice	2015-08-13	2015-08-24	2290
+607	Egipt	Marsa Alam	Wroclaw	2015-07-13	2015-07-27	2625
+608	Bulgaria	Sveti Vlas	Lodz	2015-07-15	2015-07-22	1100
+609	Maroko	Agadir	Krakow	2015-09-02	2015-09-09	2125
+610	Grecja	Rodos	Lodz	2015-07-13	2015-07-20	2099
+611	Maroko	Agadir	Wroclaw	2015-08-10	2015-08-17	2225
+612	Turcja	Kemer	Gdansk	2015-08-15	2015-08-29	3190
+613	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-09	2015-07-19	1470
+614	Grecja	Kos	Gdansk	2015-07-09	2015-07-23	3490
+615	Maroko	Agadir	Krakow	2015-09-09	2015-09-16	2125
+616	Turcja	Belek	Poznan	2015-08-11	2015-08-25	2599
+617	Maroko	Casablanca	Katowice	2015-07-21	2015-08-04	3349
+618	Tunezja	Monastir	Poznan	2015-08-13	2015-08-20	1590
+619	Egipt	Hurgada	Warszawa	2015-07-24	2015-08-03	1950
+620	Bulgaria	Sloneczny Brzeg	Poznan	2015-07-09	2015-07-23	1725
+621	Egipt	Hurgada	Warszawa	2015-08-07	2015-08-18	2150
+622	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-24	2015-07-04	1350
+623	Tunezja	Mahdia	Gdansk	2015-08-02	2015-08-16	3090
+624	Maroko	Casablanca	Krakow	2015-07-16	2015-07-23	1925
+625	Hiszpania	Majorka	Wroclaw	2015-07-25	2015-08-01	2250
+626	Maroko	Casablanca	Poznan	2015-08-11	2015-08-18	2420
+627	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-23	2015-09-06	1810
+628	Maroko	Casablanca	Gdansk	2015-07-16	2015-07-23	1925
+629	Grecja	Rodos	Lodz	2015-08-24	2015-09-07	3599
+630	Grecja	Kreta	Wroclaw	2015-06-22	2015-07-06	3350
+631	Bulgaria	Sveti Vlas	Krakow	2015-08-04	2015-08-11	1050
+632	Grecja	Kreta	Warszawa	2015-07-10	2015-07-24	3350
+633	Egipt	Hurgada	Gdansk	2015-07-30	2015-08-06	1520
+634	Maroko	Agadir	Katowice	2015-07-27	2015-08-03	2125
+635	Tunezja	Hammamet	Gdansk	2015-07-08	2015-07-15	1390
+636	Grecja	Kos	Katowice	2015-06-29	2015-07-06	1970
+637	Bulgaria	Sveti Vlas	Poznan	2015-07-13	2015-07-20	1099
+638	Tunezja	Mahdia	Warszawa	2015-08-18	2015-09-01	3090
+639	Tunezja	Nabeul	Krakow	2015-07-23	2015-07-30	1190
+640	Tunezja	Mahdia	Warszawa	2015-07-21	2015-07-28	1370
+641	Maroko	Agadir	Lodz	2015-07-13	2015-07-20	2125
+642	Grecja	Kos	Katowice	2015-07-27	2015-08-10	3490
+643	Turcja	Belek	Krakow	2015-07-14	2015-07-28	2599
+644	Turcja	Side	Poznan	2015-07-04	2015-07-11	1260
+645	Turcja	Antalya	Poznan	2015-08-28	2015-09-11	2999
+646	Tunezja	Mahdia	Katowice	2015-07-18	2015-07-25	1370
+647	Egipt	Marsa Alam	Poznan	2015-08-01	2015-08-15	3150
+648	Turcja	Alanya	Poznan	2015-08-16	2015-08-23	1079
+649	Grecja	Kreta	Wroclaw	2015-07-06	2015-07-13	2150
+650	Maroko	Casablanca	Lodz	2015-08-01	2015-08-08	2420
+651	Egipt	Hurgada	Katowice	2015-07-16	2015-07-26	1950
+652	Turcja	Antalya	Poznan	2015-07-31	2015-08-07	1259
+653	Egipt	Marsa Alam	Wroclaw	2015-07-13	2015-07-20	1550
+654	Bulgaria	Sveti Vlas	Warszawa	2015-07-29	2015-08-05	1059
+655	Grecja	Kreta	Wroclaw	2015-07-06	2015-07-20	3350
+656	Turcja	Alanya	Krakow	2015-07-20	2015-08-03	1879
+657	Egipt	Hurgada	Lodz	2015-07-03	2015-07-10	1520
+658	Grecja	Rodos	Warszawa	2015-07-23	2015-08-06	3599
+659	Grecja	Rodos	Krakow	2015-08-06	2015-08-20	3599
+660	Tunezja	Monastir	Katowice	2015-06-29	2015-07-06	1390
+661	Tunezja	Nabeul	Katowice	2015-07-08	2015-07-15	1190
+662	Hiszpania	Fuerteventura	Katowice	2015-07-26	2015-08-06	2770
+663	Grecja	Kreta	Gdansk	2015-07-26	2015-08-02	2150
+664	Maroko	Agadir	Katowice	2015-08-03	2015-08-10	2515
+665	Tunezja	Hammamet	Katowice	2015-08-12	2015-08-26	2790
+666	Turcja	Alanya	Poznan	2015-07-19	2015-07-26	1079
+667	Hiszpania	Teneryfa	Katowice	2015-08-02	2015-08-16	4299
+668	Maroko	Agadir	Wroclaw	2015-08-17	2015-08-24	2225
+669	Egipt	Hurgada	Gdansk	2015-08-01	2015-08-15	2625
+670	Egipt	Hurgada	Gdansk	2015-08-13	2015-08-20	1790
+671	Tunezja	Nabeul	Lodz	2015-07-28	2015-08-11	1999
+672	Grecja	Kreta	Warszawa	2015-07-10	2015-07-17	2150
+673	Egipt	Hurgada	Wroclaw	2015-08-14	2015-08-28	2550
+674	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-24	2015-07-08	1535
+675	Tunezja	Hammamet	Gdansk	2015-07-22	2015-07-29	1390
+676	Grecja	Kreta	Poznan	2015-07-12	2015-07-19	2150
+677	Egipt	Marsa Alam	Wroclaw	2015-07-27	2015-08-10	2625
+678	Egipt	Hurgada	Katowice	2015-08-17	2015-08-28	2150
+679	Turcja	Belek	Katowice	2015-07-15	2015-07-29	2599
+680	Turcja	Belek	Krakow	2015-07-21	2015-07-28	1359
+681	Hiszpania	Majorka	Gdansk	2015-08-17	2015-08-24	2450
+682	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-17	2015-07-27	1470
+683	Turcja	Alanya	Warszawa	2015-07-10	2015-07-17	1079
+684	Egipt	Marsa Alam	Warszawa	2015-06-29	2015-07-06	1520
+685	Turcja	Belek	Warszawa	2015-08-18	2015-09-01	3109
+686	Hiszpania	Teneryfa	Wroclaw	2015-07-31	2015-08-14	4299
+687	Hiszpania	Fuerteventura	Poznan	2015-08-05	2015-08-16	2870
+688	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-08-08	2015-08-18	1410
+689	Hiszpania	Teneryfa	Katowice	2015-08-16	2015-08-23	2599
+690	Turcja	Kemer	Lodz	2015-07-31	2015-08-14	3190
+691	Tunezja	Nabeul	Wroclaw	2015-08-17	2015-08-31	1999
+692	Grecja	Rodos	Wroclaw	2015-07-08	2015-07-15	2099
+693	Grecja	Kreta	Warszawa	2015-07-24	2015-08-07	3350
+694	Grecja	Kos	Poznan	2015-07-14	2015-07-21	1950
+695	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-16	2015-07-30	1725
+696	Bulgaria	Sveti Vlas	Poznan	2015-07-20	2015-07-27	1099
+697	Tunezja	Nabeul	Lodz	2015-07-07	2015-07-14	1190
+698	Maroko	Agadir	Wroclaw	2015-08-24	2015-08-31	2225
+699	Grecja	Kos	Lodz	2015-07-17	2015-07-31	3490
+700	Bulgaria	Sveti Vlas	Gdansk	2015-08-02	2015-08-09	1099
+701	Tunezja	Nabeul	Lodz	2015-08-04	2015-08-18	1999
+702	Turcja	Antalya	Warszawa	2015-07-04	2015-07-11	1499
+703	Egipt	Sharm El Sheikh	Warszawa	2015-08-12	2015-08-26	2659
+704	Tunezja	Hammamet	Lodz	2015-07-18	2015-07-25	1390
+705	Maroko	Agadir	Krakow	2015-09-16	2015-09-23	2125
+706	Grecja	Rodos	Warszawa	2015-07-23	2015-07-30	2099
+707	Hiszpania	Majorka	Warszawa	2015-08-27	2015-09-03	2250
+708	Grecja	Kreta	Wroclaw	2015-07-20	2015-07-27	2150
+709	Maroko	Agadir	Wroclaw	2015-08-31	2015-09-07	2225
+710	Grecja	Rodos	Katowice	2015-07-23	2015-07-30	2099
+711	Grecja	Kos	Katowice	2015-07-06	2015-07-13	1970
+712	Egipt	Sharm El Sheikh	Gdansk	2015-07-29	2015-08-05	1490
+713	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-09	2015-07-16	1110
+714	Grecja	Rodos	Katowice	2015-07-23	2015-08-06	3599
+715	Turcja	Side	Gdansk	2015-06-30	2015-07-07	1260
+716	Grecja	Rodos	Katowice	2015-08-06	2015-08-13	2099
+717	Hiszpania	Gran Canaria	Warszawa	2015-07-15	2015-07-22	1999
+718	Hiszpania	Majorka	Gdansk	2015-08-31	2015-09-07	2450
+719	Bulgaria	Sloneczny Brzeg	Katowice	2015-08-26	2015-09-05	1510
+720	Hiszpania	Majorka	Lodz	2015-07-14	2015-07-21	2350
+721	Hiszpania	Fuerteventura	Gdansk	2015-07-15	2015-07-26	2770
+722	Hiszpania	Fuerteventura	Lodz	2015-07-08	2015-07-19	2770
+723	Egipt	Sharm El Sheikh	Katowice	2015-07-13	2015-07-27	2690
+724	Bulgaria	Sveti Vlas	Krakow	2015-08-11	2015-08-18	1050
+725	Maroko	Agadir	Poznan	2015-08-09	2015-08-16	2625
+726	Bulgaria	Sveti Vlas	Warszawa	2015-07-29	2015-08-12	1625
+727	Turcja	Alanya	Lodz	2015-07-14	2015-07-21	1079
+728	Egipt	Hurgada	Katowice	2015-07-02	2015-07-09	1520
+729	Hiszpania	Majorka	Warszawa	2015-09-03	2015-09-10	2250
+730	Hiszpania	Gran Canaria	Wroclaw	2015-08-09	2015-08-23	4199
+731	Maroko	Casablanca	Warszawa	2015-08-14	2015-08-21	2420
+732	Hiszpania	Majorka	Lodz	2015-07-21	2015-07-28	2350
+733	Turcja	Belek	Wroclaw	2015-07-21	2015-07-28	1269
+734	Maroko	Agadir	Gdansk	2015-08-14	2015-08-21	2525
+735	Turcja	Kemer	Poznan	2015-08-02	2015-08-09	1990
+736	Turcja	Kemer	Gdansk	2015-08-08	2015-08-15	1790
+737	Egipt	Marsa Alam	Wroclaw	2015-07-27	2015-08-03	1550
+738	Egipt	Sharm El Sheikh	Gdansk	2015-09-09	2015-09-23	2430
+739	Hiszpania	Fuerteventura	Wroclaw	2015-08-13	2015-08-24	2870
+740	Egipt	Hurgada	Krakow	2015-07-17	2015-07-31	2625
+741	Maroko	Agadir	Lodz	2015-07-20	2015-07-27	2125
+742	Hiszpania	Fuerteventura	Poznan	2015-08-12	2015-08-23	2870
+743	Egipt	Hurgada	Poznan	2015-07-04	2015-07-11	1520
+744	Hiszpania	Fuerteventura	Lodz	2015-07-15	2015-07-26	2770
+745	Tunezja	Sousse	Katowice	2015-07-30	2015-08-13	1699
+746	Egipt	Marsa Alam	Katowice	2015-08-19	2015-08-29	2955
+747	Grecja	Rodos	Gdansk	2015-07-27	2015-08-10	3599
+748	Maroko	Casablanca	Poznan	2015-08-11	2015-08-25	3999
+749	Hiszpania	Gran Canaria	Poznan	2015-08-11	2015-08-18	2299
+750	Tunezja	Monastir	Katowice	2015-08-24	2015-08-31	1590
+751	Hiszpania	Majorka	Wroclaw	2015-08-01	2015-08-08	2250
+752	Turcja	Alanya	Warszawa	2015-08-07	2015-08-21	1879
+753	Maroko	Agadir	Katowice	2015-08-10	2015-08-17	2515
+754	Turcja	Belek	Wroclaw	2015-07-21	2015-08-04	3109
+755	Hiszpania	Majorka	Lodz	2015-07-28	2015-08-04	2350
+756	Grecja	Kos	Warszawa	2015-07-11	2015-07-18	1950
+757	Egipt	Marsa Alam	Katowice	2015-07-22	2015-08-02	3050
+758	Turcja	Kemer	Lodz	2015-07-31	2015-08-07	1890
+759	Tunezja	Djerba	Poznan	2015-08-27	2015-09-10	2190
+760	Turcja	Alanya	Poznan	2015-08-30	2015-09-06	1079
+761	Tunezja	Djerba	Katowice	2015-08-14	2015-08-28	2190
+762	Tunezja	Mahdia	Krakow	2015-07-01	2015-07-15	2890
+763	Maroko	Casablanca	Poznan	2015-08-25	2015-09-01	2420
+764	Maroko	Agadir	Gdansk	2015-08-21	2015-08-28	2525
+765	Turcja	Alanya	Gdansk	2015-07-06	2015-07-20	1879
+766	Egipt	Marsa Alam	Warszawa	2015-07-13	2015-07-23	2160
+767	Bulgaria	Sveti Vlas	Poznan	2015-07-27	2015-08-03	1099
+768	Egipt	Marsa Alam	Katowice	2015-07-15	2015-07-29	2750
+769	Hiszpania	Gran Canaria	Wroclaw	2015-07-19	2015-07-26	1999
+770	Grecja	Kreta	Lodz	2015-07-18	2015-07-25	2150
+771	Turcja	Kemer	Katowice	2015-07-13	2015-07-20	1690
+772	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-23	2015-08-30	1250
+773	Hiszpania	Fuerteventura	Lodz	2015-07-22	2015-08-02	2770
+774	Bulgaria	Sloneczny Brzeg	Warszawa	2015-06-24	2015-07-01	999
+775	Hiszpania	Teneryfa	Katowice	2015-09-06	2015-09-20	4299
+776	Maroko	Agadir	Lodz	2015-07-27	2015-08-03	2125
+777	Bulgaria	Sveti Vlas	Katowice	2015-07-21	2015-08-04	1625
+778	Egipt	Hurgada	Katowice	2015-07-02	2015-07-12	1950
+779	Maroko	Casablanca	Gdansk	2015-07-21	2015-08-04	3349
+780	Grecja	Rodos	Lodz	2015-07-20	2015-07-27	2099
+781	Hiszpania	Gran Canaria	Katowice	2015-07-14	2015-07-21	1999
+782	Turcja	Side	Gdansk	2015-08-29	2015-09-12	2390
+783	Grecja	Kos	Gdansk	2015-07-19	2015-07-26	1970
+784	Tunezja	Mahdia	Warszawa	2015-09-01	2015-09-15	2890
+785	Hiszpania	Gran Canaria	Lodz	2015-08-05	2015-08-12	2299
+786	Egipt	Marsa Alam	Katowice	2015-08-05	2015-08-16	3050
+787	Turcja	Belek	Lodz	2015-08-03	2015-08-17	2599
+788	Grecja	Kos	Katowice	2015-08-03	2015-08-17	3490
+789	Hiszpania	Gran Canaria	Katowice	2015-08-04	2015-08-18	4199
+790	Maroko	Casablanca	Lodz	2015-08-08	2015-08-22	3999
+791	Tunezja	Sousse	Katowice	2015-07-02	2015-07-09	959
+792	Bulgaria	Sveti Vlas	Krakow	2015-08-18	2015-08-25	1050
+793	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-01	2015-07-11	1350
+794	Bulgaria	Sloneczny Brzeg	Poznan	2015-07-16	2015-07-30	1725
+795	Grecja	Rodos	Wroclaw	2015-08-05	2015-08-19	3599
+796	Hiszpania	Gran Canaria	Wroclaw	2015-08-16	2015-08-30	4199
+797	Grecja	Kos	Lodz	2015-07-17	2015-07-24	1950
+798	Maroko	Casablanca	Katowice	2015-07-21	2015-07-28	1925
+799	Turcja	Alanya	Warszawa	2015-07-17	2015-07-24	1079
+800	Egipt	Marsa Alam	Poznan	2015-07-18	2015-07-25	1620
+801	Tunezja	Monastir	Lodz	2015-07-16	2015-07-30	2490
+802	Tunezja	Djerba	Wroclaw	2015-07-01	2015-07-08	1190
+803	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-15	2015-07-29	1635
+804	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-09	2015-07-19	1470
+805	Maroko	Casablanca	Katowice	2015-07-28	2015-08-11	3349
+806	Grecja	Kos	Lodz	2015-07-24	2015-08-07	3490
+807	Turcja	Alanya	Gdansk	2015-07-20	2015-07-27	1079
+808	Maroko	Agadir	Wroclaw	2015-09-07	2015-09-14	2125
+809	Bulgaria	Sveti Vlas	Wroclaw	2015-07-20	2015-07-27	1059
+810	Tunezja	Hammamet	Wroclaw	2015-07-13	2015-07-20	1390
+811	Tunezja	Djerba	Katowice	2015-07-02	2015-07-09	1190
+812	Grecja	Rodos	Krakow	2015-08-06	2015-08-13	2099
+813	Tunezja	Monastir	Gdansk	2015-09-09	2015-09-23	2490
+814	Maroko	Casablanca	Lodz	2015-08-08	2015-08-15	2420
+815	Grecja	Rodos	Krakow	2015-08-20	2015-09-03	3599
+816	Bulgaria	Sveti Vlas	Wroclaw	2015-07-20	2015-08-03	1625
+817	Maroko	Casablanca	Krakow	2015-07-23	2015-08-06	3349
+818	Hiszpania	Majorka	Wroclaw	2015-08-08	2015-08-15	2250
+819	Turcja	Kemer	Warszawa	2015-07-02	2015-07-09	1990
+820	Grecja	Kreta	Wroclaw	2015-07-20	2015-08-03	3350
+821	Tunezja	Djerba	Wroclaw	2015-07-29	2015-08-12	1990
+822	Egipt	Marsa Alam	Poznan	2015-08-08	2015-08-22	3150
+823	Hiszpania	Fuerteventura	Lodz	2015-07-29	2015-08-09	2770
+824	Egipt	Hurgada	Katowice	2015-08-03	2015-08-14	2150
+825	Grecja	Rodos	Warszawa	2015-07-30	2015-08-13	3599
+826	Bulgaria	Sveti Vlas	Lodz	2015-07-22	2015-07-29	1100
+827	Grecja	Kreta	Warszawa	2015-07-17	2015-07-24	2150
+828	Tunezja	Nabeul	Krakow	2015-08-20	2015-09-03	1999
+829	Maroko	Casablanca	Gdansk	2015-07-23	2015-07-30	1925
+830	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-29	2015-08-05	1110
+831	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-01	2015-07-15	1625
+832	Tunezja	Nabeul	Warszawa	2015-07-13	2015-07-20	1190
+833	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-24	2015-08-03	1470
+834	Egipt	Sharm El Sheikh	Katowice	2015-07-09	2015-07-16	1490
+835	Bulgaria	Sveti Vlas	Gdansk	2015-08-09	2015-08-16	1099
+836	Turcja	Alanya	Poznan	2015-08-02	2015-08-09	1079
+837	Tunezja	Monastir	Gdansk	2015-07-29	2015-08-05	1390
+838	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-01	2015-07-08	1050
+839	Maroko	Casablanca	Lodz	2015-08-15	2015-08-29	3999
+840	Turcja	Kemer	Gdansk	2015-08-22	2015-09-05	3190
+841	Hiszpania	Teneryfa	Katowice	2015-08-23	2015-08-30	2599
+842	Bulgaria	Sveti Vlas	Wroclaw	2015-07-27	2015-08-03	1059
+843	Tunezja	Hammamet	Warszawa	2015-07-01	2015-07-08	1390
+844	Hiszpania	Fuerteventura	Wroclaw	2015-08-20	2015-08-31	2870
+845	Tunezja	Hammamet	Warszawa	2015-07-29	2015-08-12	2790
+846	Maroko	Casablanca	Lodz	2015-08-15	2015-08-22	2420
+847	Turcja	Belek	Wroclaw	2015-08-04	2015-08-11	1269
+848	Tunezja	Nabeul	Krakow	2015-07-30	2015-08-06	1190
+849	Bulgaria	Sloneczny Brzeg	Katowice	2015-07-16	2015-07-23	1110
+850	Grecja	Kos	Lodz	2015-07-24	2015-07-31	1950
+851	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-22	2015-08-05	1725
+852	Grecja	Kreta	Gdansk	2015-07-26	2015-08-09	3350
+853	Egipt	Sharm El Sheikh	Warszawa	2015-07-15	2015-07-22	1490
+854	Egipt	Hurgada	Krakow	2015-07-31	2015-08-07	1520
+855	Egipt	Sharm El Sheikh	Krakow	2015-08-11	2015-08-25	2790
+856	Tunezja	Djerba	Gdansk	2015-07-13	2015-07-20	1190
+857	Grecja	Rodos	Katowice	2015-08-06	2015-08-20	3599
+858	Bulgaria	Sloneczny Brzeg	Krakow	2015-07-16	2015-07-23	1110
+859	Turcja	Belek	Katowice	2015-07-15	2015-07-22	1359
+860	Turcja	Kemer	Lodz	2015-08-07	2015-08-21	3190
+861	Grecja	Kreta	Katowice	2015-07-13	2015-07-27	3350
+862	Egipt	Sharm El Sheikh	Poznan	2015-08-08	2015-08-22	2790
+863	Grecja	Kreta	Poznan	2015-07-12	2015-07-26	3350
+864	Grecja	Kreta	Katowice	2015-07-13	2015-07-20	2150
+865	Hiszpania	Gran Canaria	Katowice	2015-07-21	2015-07-28	1999
+866	Grecja	Kos	Poznan	2015-07-14	2015-07-28	3490
+867	Maroko	Casablanca	Lodz	2015-08-22	2015-09-05	3999
+868	Bulgaria	Sveti Vlas	Katowice	2015-07-28	2015-08-11	1625
+869	Maroko	Casablanca	Katowice	2015-07-28	2015-08-04	1925
+870	Turcja	Belek	Warszawa	2015-08-18	2015-08-25	1269
+871	Grecja	Rodos	Wroclaw	2015-07-15	2015-07-22	2099
+872	Egipt	Marsa Alam	Katowice	2015-07-08	2015-07-19	2380
+873	Turcja	Kemer	Katowice	2015-08-10	2015-08-24	3190
+874	Grecja	Rodos	Warszawa	2015-07-30	2015-08-06	2099
+875	Maroko	Agadir	Lodz	2015-08-03	2015-08-10	2525
+876	Turcja	Side	Poznan	2015-09-04	2015-09-18	2390
+877	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-16	2015-07-23	1110
+878	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-16	2015-07-26	1470
+879	Maroko	Agadir	Wroclaw	2015-09-14	2015-09-21	2125
+880	Tunezja	Sousse	Wroclaw	2015-07-30	2015-08-06	1159
+881	Bulgaria	Sloneczny Brzeg	Gdansk	2015-08-05	2015-08-12	1240
+882	Maroko	Casablanca	Lodz	2015-08-22	2015-08-29	2420
+883	Bulgaria	Sloneczny Brzeg	Katowice	2015-07-23	2015-07-30	1110
+884	Tunezja	Nabeul	Katowice	2015-07-22	2015-08-05	1999
+885	Tunezja	Hammamet	Katowice	2015-08-05	2015-08-12	1690
+886	Egipt	Hurgada	Katowice	2015-07-30	2015-08-13	2625
+887	Tunezja	Hammamet	Wroclaw	2015-08-24	2015-09-07	2790
+888	Bulgaria	Sveti Vlas	Poznan	2015-08-03	2015-08-10	1199
+889	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-02	2015-07-16	1725
+890	Tunezja	Mahdia	Katowice	2015-08-29	2015-09-12	3090
+891	Grecja	Kos	Warszawa	2015-08-08	2015-08-22	3490
+892	Maroko	Casablanca	Krakow	2015-07-23	2015-07-30	1925
+893	Hiszpania	Fuerteventura	Poznan	2015-08-19	2015-08-30	2870
+894	Grecja	Rodos	Poznan	2015-08-11	2015-08-25	3599
+895	Turcja	Belek	Wroclaw	2015-08-04	2015-08-18	3109
+896	Hiszpania	Majorka	Warszawa	2015-08-06	2015-08-13	2250
+897	Grecja	Kreta	Warszawa	2015-08-07	2015-08-21	3350
+898	Turcja	Alanya	Lodz	2015-08-11	2015-08-18	1079
+899	Tunezja	Mahdia	Wroclaw	2015-07-06	2015-07-13	1370
+900	Maroko	Agadir	Poznan	2015-08-16	2015-08-23	2625
+901	Maroko	Agadir	Poznan	2015-08-23	2015-08-30	2625
+902	Turcja	Alanya	Gdansk	2015-07-20	2015-08-03	1879
+903	Grecja	Rodos	Lodz	2015-08-31	2015-09-14	3599
+904	Hiszpania	Majorka	Lodz	2015-08-04	2015-08-11	2450
+905	Maroko	Agadir	Gdansk	2015-08-28	2015-09-04	2525
+906	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-30	2015-09-13	1810
+907	Tunezja	Sousse	Poznan	2015-08-07	2015-08-21	1899
+908	Turcja	Antalya	Wroclaw	2015-08-01	2015-08-15	3109
+909	Tunezja	Monastir	Katowice	2015-07-27	2015-08-10	2490
+910	Hiszpania	Teneryfa	Katowice	2015-09-13	2015-09-27	4299
+911	Hiszpania	Majorka	Lodz	2015-08-11	2015-08-18	2450
+912	Grecja	Kreta	Lodz	2015-07-18	2015-08-01	3350
+913	Tunezja	Mahdia	Gdansk	2015-07-19	2015-07-26	1370
+914	Egipt	Hurgada	Katowice	2015-08-13	2015-08-27	2625
+915	Hiszpania	Gran Canaria	Wroclaw	2015-07-26	2015-08-02	1999
+916	Turcja	Belek	Katowice	2015-07-29	2015-08-12	2599
+917	Egipt	Marsa Alam	Warszawa	2015-07-27	2015-08-07	2380
+918	Egipt	Hurgada	Katowice	2015-07-02	2015-07-16	2625
+919	Turcja	Belek	Katowice	2015-07-29	2015-08-05	1359
+920	Egipt	Sharm El Sheikh	Krakow	2015-08-25	2015-09-08	2790
+921	Turcja	Side	Krakow	2015-08-02	2015-08-09	1260
+922	Hiszpania	Gran Canaria	Warszawa	2015-08-12	2015-08-26	4199
+923	Grecja	Kreta	Gdansk	2015-08-02	2015-08-09	2150
+924	Maroko	Casablanca	Lodz	2015-08-29	2015-09-12	3999
+925	Hiszpania	Majorka	Wroclaw	2015-08-15	2015-08-22	2250
+926	Tunezja	Mahdia	Katowice	2015-08-01	2015-08-08	1570
+927	Grecja	Kos	Lodz	2015-07-31	2015-08-14	3490
+928	Grecja	Rodos	Poznan	2015-07-14	2015-07-21	2099
+929	Tunezja	Djerba	Lodz	2015-07-14	2015-07-28	1990
+930	Bulgaria	Sveti Vlas	Krakow	2015-08-25	2015-09-01	1050
+931	Bulgaria	Sveti Vlas	Krakow	2015-09-01	2015-09-08	1050
+932	Grecja	Kos	Krakow	2015-07-28	2015-08-11	3490
+933	Turcja	Side	Katowice	2015-07-30	2015-08-13	2390
+934	Grecja	Kos	Katowice	2015-07-13	2015-07-20	1970
+935	Turcja	Side	Lodz	2015-07-02	2015-07-16	2390
+936	Tunezja	Sousse	Katowice	2015-08-13	2015-08-27	1699
+937	Tunezja	Monastir	Lodz	2015-07-30	2015-08-06	1390
+938	Tunezja	Sousse	Lodz	2015-08-01	2015-08-15	1699
+939	Grecja	Rodos	Lodz	2015-07-27	2015-08-03	2099
+940	Bulgaria	Sloneczny Brzeg	Poznan	2015-08-30	2015-09-06	1250
+941	Turcja	Kemer	Wroclaw	2015-07-25	2015-08-01	1990
+942	Grecja	Kreta	Poznan	2015-07-19	2015-07-26	2150
+943	Grecja	Kreta	Gdansk	2015-08-02	2015-08-16	3350
+944	Turcja	Antalya	Krakow	2015-08-15	2015-08-29	2679
+945	Grecja	Kreta	Lodz	2015-07-25	2015-08-01	2150
+946	Tunezja	Monastir	Lodz	2015-07-23	2015-08-06	2490
+947	Maroko	Agadir	Katowice	2015-08-17	2015-08-24	2515
+948	Maroko	Casablanca	Katowice	2015-08-04	2015-08-18	3999
+949	Turcja	Kemer	Katowice	2015-07-20	2015-07-27	1690
+950	Egipt	Hurgada	Warszawa	2015-08-21	2015-09-04	2550
+951	Tunezja	Djerba	Gdansk	2015-07-27	2015-08-10	1990
+952	Bulgaria	Sveti Vlas	Warszawa	2015-08-05	2015-08-12	1159
+953	Maroko	Casablanca	Katowice	2015-08-04	2015-08-11	2420
+954	Egipt	Marsa Alam	Gdansk	2015-07-17	2015-07-24	1590
+955	Egipt	Hurgada	Poznan	2015-07-18	2015-07-25	1520
+956	Maroko	Casablanca	Gdansk	2015-07-28	2015-08-11	3349
+957	Hiszpania	Fuerteventura	Katowice	2015-08-06	2015-08-17	2870
+958	Grecja	Kos	Krakow	2015-08-11	2015-08-18	2070
+959	Hiszpania	Fuerteventura	Lodz	2015-08-05	2015-08-16	2770
+960	Tunezja	Monastir	Lodz	2015-08-06	2015-08-13	1590
+961	Tunezja	Mahdia	Gdansk	2015-08-16	2015-08-30	3090
+962	Tunezja	Djerba	Poznan	2015-07-16	2015-07-23	1190
+963	Tunezja	Monastir	Wroclaw	2015-08-02	2015-08-16	1790
+964	Egipt	Marsa Alam	Wroclaw	2015-08-10	2015-08-24	2995
+965	Egipt	Sharm El Sheikh	Katowice	2015-07-30	2015-08-09	1990
+966	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-08	2015-07-18	1350
+967	Grecja	Kos	Gdansk	2015-07-19	2015-08-02	3490
+968	Grecja	Kos	Warszawa	2015-07-18	2015-07-25	1950
+969	Maroko	Agadir	Poznan	2015-08-30	2015-09-06	2625
+970	Grecja	Kos	Lodz	2015-07-31	2015-08-07	1950
+971	Bulgaria	Sveti Vlas	Lodz	2015-07-29	2015-08-05	1100
+972	Bulgaria	Sloneczny Brzeg	Poznan	2015-07-23	2015-08-06	1725
+973	Tunezja	Nabeul	Warszawa	2015-08-03	2015-08-17	1999
+974	Egipt	Hurgada	Warszawa	2015-08-28	2015-09-11	2550
+975	Grecja	Kos	Katowice	2015-08-10	2015-08-24	3490
+976	Turcja	Kemer	Lodz	2015-08-07	2015-08-14	1890
+977	Maroko	Casablanca	Wroclaw	2015-08-17	2015-08-24	2420
+978	Egipt	Sharm El Sheikh	Krakow	2015-08-25	2015-09-01	1590
+979	Egipt	Sharm El Sheikh	Poznan	2015-08-15	2015-08-22	1590
+980	Tunezja	Sousse	Wroclaw	2015-09-24	2015-10-08	1699
+981	Turcja	Kemer	Lodz	2015-08-14	2015-08-28	3190
+982	Tunezja	Sousse	Gdansk	2015-07-15	2015-07-29	1699
+983	Maroko	Casablanca	Krakow	2015-07-30	2015-08-13	3349
+984	Hiszpania	Gran Canaria	Warszawa	2015-07-22	2015-07-29	1999
+985	Maroko	Agadir	Poznan	2015-09-06	2015-09-13	2125
+986	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-31	2015-08-10	1470
+987	Hiszpania	Gran Canaria	Lodz	2015-08-12	2015-08-19	2299
+988	Bulgaria	Sloneczny Brzeg	Gdansk	2015-07-29	2015-08-12	1725
+989	Bulgaria	Sveti Vlas	Lodz	2015-08-05	2015-08-12	1200
+990	Bulgaria	Sveti Vlas	Warszawa	2015-08-05	2015-08-19	1625
+991	Tunezja	Sousse	Lodz	2015-08-01	2015-08-08	1159
+992	Maroko	Agadir	Lodz	2015-08-10	2015-08-17	2525
+993	Grecja	Kreta	Gdansk	2015-08-09	2015-08-16	2150
+994	Hiszpania	Fuerteventura	Poznan	2015-08-26	2015-09-06	2870
+995	Hiszpania	Majorka	Warszawa	2015-08-13	2015-08-20	2250
+996	Maroko	Casablanca	Krakow	2015-07-30	2015-08-06	1925
+997	Maroko	Agadir	Wroclaw	2015-09-21	2015-09-28	2125
+998	Bulgaria	Sloneczny Brzeg	Wroclaw	2015-08-05	2015-08-19	1625
+999	Egipt	Hurgada	Wroclaw	2015-07-24	2015-07-31	1450
+1000	Bulgaria	Sloneczny Brzeg	Poznan	2015-09-09	2015-09-23	1350
+1001	Hiszpania	Gran Canaria	Krakow	2015-08-19	2015-08-26	2299
+1002	Egipt	Sharm El Sheikh	Warszawa	2015-07-15	2015-07-25	1990
+1003	Grecja	Kos	Lodz	2015-08-07	2015-08-21	3490
+1004	Maroko	Casablanca	Krakow	2015-08-06	2015-08-20	3999
+1005	Hiszpania	Teneryfa	Warszawa	2015-07-31	2015-08-14	4299
+1006	Tunezja	Djerba	Gdansk	2015-07-27	2015-08-03	1190
+1007	Maroko	Agadir	Wroclaw	2015-09-28	2015-10-05	2125
+1008	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-08	2015-07-22	1625
+1009	Egipt	Hurgada	Poznan	2015-08-01	2015-08-08	1790
+1010	Grecja	Rodos	Katowice	2015-08-20	2015-08-27	2099
+1011	Bulgaria	Sveti Vlas	Poznan	2015-08-10	2015-08-17	1199
+1012	Hiszpania	Fuerteventura	Katowice	2015-08-17	2015-08-28	2870
+1013	Grecja	Rodos	Lodz	2015-09-07	2015-09-21	3299
+1014	Bulgaria	Sveti Vlas	Wroclaw	2015-07-27	2015-08-10	1625
+1015	Turcja	Antalya	Lodz	2015-07-15	2015-07-22	1259
+1016	Turcja	Kemer	Lodz	2015-08-14	2015-08-21	1890
+1017	Tunezja	Djerba	Warszawa	2015-07-06	2015-07-13	1190
+1018	Maroko	Casablanca	Wroclaw	2015-08-31	2015-09-14	3999
+1019	Grecja	Kos	Lodz	2015-08-07	2015-08-14	2050
+1020	Egipt	Marsa Alam	Wroclaw	2015-08-10	2015-08-17	1550
+1021	Maroko	Agadir	Krakow	2015-09-23	2015-09-30	2125
+1022	Tunezja	Monastir	Warszawa	2015-07-05	2015-07-12	1390
+1023	Hiszpania	Gran Canaria	Warszawa	2015-08-19	2015-09-02	4199
+1024	Bulgaria	Sveti Vlas	Gdansk	2015-08-16	2015-08-23	1099
+1025	Egipt	Marsa Alam	Gdansk	2015-08-14	2015-08-28	2990
+1026	Hiszpania	Majorka	Katowice	2015-09-21	2015-09-28	2250
+1027	Maroko	Agadir	Warszawa	2015-08-01	2015-08-08	2125
+1028	Grecja	Rodos	Katowice	2015-08-20	2015-09-03	3599
+1029	Hiszpania	Fuerteventura	Lodz	2015-08-12	2015-08-23	2870
+1030	Bulgaria	Sveti Vlas	Lodz	2015-08-12	2015-08-19	1200
+1031	Bulgaria	Sveti Vlas	Wroclaw	2015-08-03	2015-08-10	1159
+1032	Maroko	Agadir	Krakow	2015-09-30	2015-10-07	2125
+1033	Bulgaria	Sloneczny Brzeg	Lodz	2015-07-23	2015-08-02	1470
+1034	Grecja	Kreta	Poznan	2015-07-19	2015-08-02	3350
+1035	Bulgaria	Sveti Vlas	Poznan	2015-08-17	2015-08-24	1199
+1036	Tunezja	Monastir	Poznan	2015-08-27	2015-09-10	2790
+1037	Bulgaria	Sveti Vlas	Gdansk	2015-08-23	2015-08-30	1099
+1038	Grecja	Kos	Poznan	2015-07-28	2015-08-04	1950
+1039	Grecja	Kreta	Katowice	2015-07-20	2015-08-03	3350
+1040	Egipt	Marsa Alam	Wroclaw	2015-08-24	2015-09-07	2995
+1041	Bulgaria	Sveti Vlas	Lodz	2015-08-19	2015-08-26	1200
+1042	Turcja	Antalya	Lodz	2015-08-12	2015-08-26	2999
+1043	Bulgaria	Sloneczny Brzeg	Warszawa	2015-07-08	2015-07-15	1050
+1044	Turcja	Belek	Katowice	2015-08-12	2015-08-26	2599
+1045	Tunezja	Djerba	Poznan	2015-07-30	2015-08-06	1190
+1046	Grecja	Kreta	Krakow	2015-08-11	2015-08-18	2150
+1047	Bulgaria	Sveti Vlas	Lodz	2015-08-26	2015-09-02	1200
+1048	Tunezja	Hammamet	Krakow	2015-08-19	2015-08-26	1690
+1049	Hiszpania	Fuerteventura	Krakow	2015-07-24	2015-08-04	2770
+1050	Grecja	Kreta	Krakow	2015-08-11	2015-08-25	3350
+1051	Hiszpania	Gran Canaria	Gdansk	2015-08-05	2015-08-12	2299
+1052	Grecja	Kos	Lodz	2015-07-04	2015-07-18	3490
+1053	Bulgaria	Sveti Vlas	Gdansk	2015-08-30	2015-09-06	1099
+1054	Grecja	Rodos	Katowice	2015-09-03	2015-09-10	1599
+1055	Turcja	Side	Wroclaw	2015-07-17	2015-07-31	2390
+1056	Turcja	Alanya	Wroclaw	2015-08-21	2015-08-28	1079
+1057	Turcja	Kemer	Warszawa	2015-09-02	2015-09-16	3190
+1058	Turcja	Side	Wroclaw	2015-07-24	2015-08-07	2390
+1059	Tunezja	Mahdia	Warszawa	2015-08-04	2015-08-11	1570
+1060	Egipt	Sharm El Sheikh	Krakow	2015-08-11	2015-08-18	1590
+1061	Egipt	Marsa Alam	Katowice	2015-07-01	2015-07-15	2750
+1062	Tunezja	Monastir	Lodz	2015-07-30	2015-08-13	2490
+1063	Hiszpania	Majorka	Katowice	2015-07-13	2015-07-20	2350
+1064	Tunezja	Nabeul	Poznan	2015-09-01	2015-09-15	1999
+1065	Hiszpania	Fuerteventura	Poznan	2015-09-02	2015-09-13	2770
+1066	Turcja	Alanya	Krakow	2015-07-20	2015-07-27	1079
+1067	Tunezja	Nabeul	Poznan	2015-08-18	2015-08-25	1190
+1068	Turcja	Antalya	Krakow	2015-08-01	2015-08-08	1059
+1069	Grecja	Kreta	Lodz	2015-07-25	2015-08-08	3350
+1070	Grecja	Kos	Wroclaw	2015-07-30	2015-08-13	3490
+1071	Grecja	Kreta	Gdansk	2015-08-09	2015-08-23	3350
+1072	Turcja	Side	Lodz	2015-08-02	2015-08-09	1260
+1073	Turcja	Alanya	Warszawa	2015-08-14	2015-08-28	1879
+1074	Turcja	Belek	Poznan	2015-07-14	2015-07-21	1499
+1075	Bulgaria	Sveti Vlas	Wroclaw	2015-08-03	2015-08-17	1625
+1076	Maroko	Casablanca	Krakow	2015-08-06	2015-08-13	2420
+1077	Egipt	Hurgada	Lodz	2015-07-17	2015-07-24	1520
+1078	Maroko	Agadir	Gdansk	2015-09-04	2015-09-11	2125
+1079	Grecja	Rodos	Warszawa	2015-08-06	2015-08-20	3599
+1080	Hiszpania	Fuerteventura	Krakow	2015-08-04	2015-08-15	2870
+1081	Turcja	Belek	Poznan	2015-08-25	2015-09-08	2599
+1082	Maroko	Agadir	Katowice	2015-08-24	2015-08-31	2515
+1083	Maroko	Agadir	Poznan	2015-09-13	2015-09-20	2125
+1084	Maroko	Agadir	Warszawa	2015-08-14	2015-08-21	2125
+1085	Maroko	Casablanca	Wroclaw	2015-08-31	2015-09-07	2420
+1086	Turcja	Kemer	Wroclaw	2015-07-25	2015-08-08	3190
+1087	Egipt	Marsa Alam	Wroclaw	2015-08-24	2015-08-31	1550
+1088	Egipt	Marsa Alam	Katowice	2015-07-22	2015-07-29	1590
+1089	Egipt	Hurgada	Lodz	2015-07-31	2015-08-07	1520
+1090	Maroko	Agadir	Gdansk	2015-09-11	2015-09-18	2125
+1091	Egipt	Marsa Alam	Wroclaw	2015-08-31	2015-09-14	2995
+1092	Turcja	Kemer	Wroclaw	2015-08-08	2015-08-15	1990
+1093	Tunezja	Mahdia	Poznan	2015-08-05	2015-08-12	1570
+1094	Hiszpania	Teneryfa	Gdansk	2015-08-03	2015-08-10	2599
+1095	Turcja	Antalya	Krakow	2015-08-22	2015-09-05	2679
+1096	Grecja	Kreta	Warszawa	2015-07-24	2015-07-31	2150
+1097	Turcja	Antalya	Poznan	2015-09-11	2015-09-25	2999
+1098	Tunezja	Djerba	Lodz	2015-07-28	2015-08-04	1190
+1099	Turcja	Belek	Poznan	2015-07-28	2015-08-04	1499
+1100	Grecja	Rodos	Wroclaw	2015-08-12	2015-08-26	3599
+1101	Hiszpania	Fuerteventura	Krakow	2015-08-15	2015-08-26	2870
+1102	Tunezja	Nabeul	Lodz	2015-07-14	2015-07-21	1190
+1103	Hiszpania	Gran Canaria	Wroclaw	2015-08-23	2015-09-06	4199
+1104	Maroko	Casablanca	Katowice	2015-08-11	2015-08-25	3999
+1105	Grecja	Rodos	Lodz	2015-08-03	2015-08-10	2099
+1106	Bulgaria	Sloneczny Brzeg	Poznan	2015-07-23	2015-08-06	1725
+1107	Hiszpania	Majorka	Warszawa	2015-08-20	2015-08-27	2250
+1108	Bulgaria	Sloneczny Brzeg	Gdansk	2015-08-12	2015-08-19	1240
+1109	Grecja	Kreta	Gdansk	2015-08-16	2015-08-23	2150
+1110	Tunezja	Monastir	Lodz	2015-07-02	2015-07-09	1390
+1111	Grecja	Kreta	Warszawa	2015-08-21	2015-09-04	3350
+1112	Grecja	Rodos	Gdansk	2015-08-10	2015-08-17	2099
+1113	Maroko	Casablanca	Katowice	2015-08-11	2015-08-18	2420
+1114	Grecja	Rodos	Gdansk	2015-08-10	2015-08-24	3599
+1115	Maroko	Agadir	Lodz	2015-08-17	2015-08-24	2525
+1116	Maroko	Casablanca	Gdansk	2015-07-30	2015-08-06	1925
+1117	Bulgaria	Sloneczny Brzeg	Gdansk	2015-08-07	2015-08-17	1510
+1118	Tunezja	Djerba	Warszawa	2015-08-03	2015-08-10	1490
+1119	Egipt	Hurgada	Krakow	2015-07-31	2015-08-14	2625
+1120	Maroko	Agadir	Warszawa	2015-08-21	2015-08-28	2125
+1121	Grecja	Rodos	Krakow	2015-08-20	2015-08-27	2099

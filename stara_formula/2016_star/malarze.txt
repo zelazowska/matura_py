@@ -1,0 +1,160 @@
+ID_malarza	Nazwisko	Imie
+1	Matejko	Jan
+2	Bacciarelli	Marcello
+3	Bellotto(Canaletto)	Bernardo
+4	Bozanska	Olga
+5	Chelmonski	Jozef
+6	Falat	Julian
+7	Gierymski	Aleksander
+8	Gierymski	Maksymilian
+9	Kossak	Jerzy
+10	Kossak	Juliusz
+11	Kossak	Wojciech
+12	Malczewski	Jacek
+13	Begeyn	Abraham
+14	Govaerts	Abraham
+15	Janssens	Abraham
+16	Mignon	Abraham
+17	van den Tempel	Abraham
+18	Orlowski	Aleksander
+19	Magnasco	Alessandro
+20	van Everdingen	Allart
+21	Kauffmann	Angelika
+22	Gramatica	Antiveduto
+23	Graff	Anton
+24	Oleszczynski	Antoni
+25	Peruzzini	Antonio Francesco
+26	Renoir	Auguste
+27	Ritt	Augustyn
+28	Bruyn	Bartholomaus
+29	Coda	Benedetto
+30	Cavallino	Bernardo
+31	Strozzi	Bernardo
+32	Veronese	Bonifacio
+33	Fabritius	Carel
+34	Dolci	Carlo
+35	Magini	Carlo
+36	Berentz	Christian
+37	Decker	Cornelis
+38	van Haarlem	Cornelis
+39	Seghers	Daniel
+40	Crespi	Daniele
+41	Teniers II	David
+42	Bossi	Domenico
+43	Tintoretto	Domenico
+44	Vuillard	Edouard
+45	Boselli	Felice
+46	Bol	Ferdinand
+47	Ruszczyc	Ferdynand
+48	Bassano	Francesco
+49	Ghissi	Francesco
+50	Guarino	Francesco
+51	Solimena	Francesco
+52	Olexinski	Franciszek Ksawery
+53	Perrier	Francois
+54	Snyders	Frans
+55	Maulbertsch	Franz Anton
+56	Tamm	Franz Werner
+57	de Moucheron	Frederik
+58	van Wittel	Gaspar
+59	Traversi	Gaspare
+60	Bellini	Gentile
+61	Pencz	Georg
+62	Lallemant	Georges
+63	Dou	Gerard
+64	van den Eeckhout	Gerbrand
+65	Cima da Conegliano	Giambattista
+66	Assereto	Gioacchino
+67	Tiepolo	Giovanni Domenico
+68	Panini	Giovanni Paolo
+69	Serodine	Giovanni
+70	Crespi	Giuseppe Maria
+71	Recco	Giuseppe
+72	Reni	Guido
+73	Courbet	Gustave
+74	Schaufelein	Hans Leonhard
+75	Makart	Hans
+76	Pleydenwurff	Hans
+77	Terbrugghen	Hendrick
+78	Rodakowski	Henryk
+79	Siemiradzki	Henryk
+80	met de Bles	Herri
+81	Vernet	Horace
+82	Robert	Hubert
+83	Duck	Jacob
+84	Jordaens	Jacob
+85	Marrel	Jacob
+86	Tintoretto	Jacopo
+87	Lievens	Jan
+88	Peeters	Jan
+89	Norblin	Jan Piotr
+90	Steen	Jan
+91	Victors	Jan
+92	Jouvenet	Jean
+93	Nowosielski	Jerzy
+94	van Cleve	Joos
+95	Vernet	Joseph
+96	Kosinski	Jozef
+97	Mehoffer	Jozef
+98	Pankiewicz	Jozef
+99	Dupre	Jules
+100	van Egmont	Justus
+101	Chwistek	Leon
+102	Wyczolkowski	Leon
+103	Bramer	Leonaert
+104	Corinth	Lovis
+105	Giordano	Luca
+106	van Heemskerck	Maerten
+107	van Reymerswaele	Marinus
+108	Preti	Mattia
+109	de Vlaminck	Maurice
+110	Willmann	Michael
+111	Marieschi	Michele
+112	Kisling	Mojzesz
+113	Daffinger	Moritz Michael
+114	Maes	Nicolaes
+115	de Largilliere	Nicolas
+116	Regnier	Nicolas
+117	Tournier	Nicolas
+118	van Gelder	Nicolas
+119	Boznanska	Olga
+120	Picasso	Pablo
+121	Bordone	Paris
+122	de Vos	Paul
+123	Klee	Paul
+124	Serusier	Paul
+125	de Champaigne	Philippe
+126	Angel	Philips
+127	Mola	Pier Francesco
+128	Aertsen	Pieter
+129	Codde	Pieter
+130	Saenredam	Pieter Jansz
+131	Lastman	Pieter
+132	Meulener	Pieter
+133	Nason	Pieter
+134	Dufy	Raoul
+135	van Rijn	Rembrandt
+136	Savery	Roelant
+137	van Ruisdael	Salomon
+138	Botticelli	Sandro
+139	Mainardi	Sebastiano
+140	Holbein	Sigmund
+141	de Vos	Simon
+142	Vouet	Simon
+143	Witkiewicz	Stanislaw Ignacy
+144	Wyspianski	Stanislaw
+145	Gaddi	Taddeo
+146	Kantor	Tadeusz
+147	Makowski	Tadeusz
+148	lempicka	Tamara
+149	Rombouts	Theodoor
+150	Czyzewski	Tytus
+151	Heinrich	Vitus
+152	Kandinsky	Wassily
+153	Drost	Willem
+154	de Lesseur	Wincenty
+155	Wojtkiewicz	Witold
+156	Podkowinski	Wladyslaw
+157	Huber	Wolf
+158	Dunikowski	Xawery
+159	Vogel	Zygmunt

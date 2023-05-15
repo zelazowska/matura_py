@@ -1,0 +1,340 @@
+ID_obrazu	Tytul	ID_malarza	ID_oddzialu	Stan
+1	Kazanie Skargi	1	1	ekspozycja czasowa
+2	Konrad Wallenrod	1	1	ekspozycja stala
+3	Stanczyk w czasie balu	1	3	ekspozycja czasowa
+4	Astornom Kopernik	1	2	w magazynie
+5	Batory pod Pskowem	1	3	w magazynie
+6	Unia Lubelska	1	2	ekspozycja stala
+7	Hold pruski	1	3	wypozyczony
+8	Sobieski pod Wiedniem	1	1	ekspozycja stala
+9	Wernyhora	1	3	ekspozycja stala
+10	smierc Zygmunta Augusta	1	1	w magazynie
+11	Bitwa pod Raclawicami	1	4	ekspozycja stala
+12	Konstytucja 3 maja 1791 roku	1	3	ekspozycja stala
+13	sluby Jana Kazimierza	1	3	ekspozycja czasowa
+14	Bitwa pod Grunwaldem	1	3	ekspozycja stala
+15	Chrzest Litwy	1	2	ekspozycja stala
+16	Bitwa pod Pskowem	1	2	wypozyczony
+17	Traktat chocimski	2	4	ekspozycja stala
+18	Sobieski pod Wiedniem	2	2	w magazynie
+19	Hold pruski	2	3	ekspozycja czasowa
+20	Unia lubelska	2	3	w magazynie
+21	Krol Wladyslaw Jagiello	2	3	ekspozycja stala
+22	Stanislaw Poniatowski z zona	2	3	ekspozycja czasowa
+23	Portret Stanislawa Augusta	2	4	ekspozycja stala
+24	Autoportret w konfederatce	2	1	wypozyczony
+25	Stanislaw August w stroju koronacyjnym	2	1	ekspozycja czasowa
+26	Kolumna Zygmunta III	3	5	ekspozycja stala
+27	Widok Warszawy od strony Pragi	3	1	ekspozycja stala
+28	Krakowskie Przedmiescie od strony Nowego swiatu	3	1	w magazynie
+29	Widok lak wilanowskich	3	4	ekspozycja stala
+30	Elekcja Stanislawa Augusta	3	1	ekspozycja stala
+31	Ulica Dluga	3	3	ekspozycja czasowa
+32	Ulica Miodowa	3	2	ekspozycja czasowa
+33	Zabudowania miejskie	4	2	ekspozycja czasowa
+34	Portret kobiety	4	3	ekspozycja czasowa
+35	Imieniny babuni	4	3	ekspozycja stala
+36	Japonka	4	3	ekspozycja stala
+37	Kwiaciarki	4	1	ekspozycja stala
+38	Bretonka	4	4	w magazynie
+39	W oranzerii	4	1	ekspozycja stala
+40	Srebrzysta dziewczynka	4	5	ekspozycja stala
+41	Macierzynstwo	4	1	wypozyczony
+42	Kwiaty na tarasie	4	5	ekspozycja stala
+43	Martwa natura z kwiatami	4	1	ekspozycja czasowa
+44	Roze w wazonie	4	5	ekspozycja stala
+45	W ogrodku	5	4	ekspozycja czasowa
+46	Rankiem w puszczy	5	2	ekspozycja czasowa
+47	Odlot zurawi	5	2	ekspozycja stala
+48	Czworka w zaspach	5	2	ekspozycja stala
+49	Zjazd na polowanie	5	3	ekspozycja stala
+50	Babie lato	5	3	w magazynie
+51	Trojka na sniegu	5	3	w magazynie
+52	Jesien	5	4	ekspozycja stala
+53	Kazimierz Pulaski pod Czestochowa	5	3	ekspozycja stala
+54	Powstancy na postoju	5	1	ekspozycja czasowa
+55	Pod karczma	5	3	ekspozycja czasowa
+56	Oberek	5	1	wypozyczony
+57	Kulig	5	1	ekspozycja stala
+58	Plebania w Wyszatycach	6	4	ekspozycja stala
+59	Zbieranie chmielu	6	1	wypozyczony
+60	Na statku	6	1	ekspozycja stala
+61	Polowanie na kaczki	6	1	ekspozycja czasowa
+62	switez	6	5	ekspozycja stala
+63	Powrot z niedzwiedziem	6	2	ekspozycja stala
+64	Widok Krakowa	6	5	w magazynie
+65	Krakowianki przed lustrem	6	1	w magazynie
+66	snieg	6	2	ekspozycja stala
+67	Cmentarz w Leoben	6	3	wypozyczony
+68	Spalony las w Tatrach	6	3	ekspozycja stala
+69	Hamlet	7	3	ekspozycja stala
+70	Austeria rzymska	7	2	w magazynie
+71	Altana	7	4	w magazynie
+72	Begonie	7	1	w magazynie
+73	Fontanna	7	3	ekspozycja czasowa
+74	zydowka z cytrynami	7	1	wypozyczony
+75	W altanie	7	4	ekspozycja stala
+76	Uliczka w Cervarze	7	1	ekspozycja stala
+77	Piaskarze	7	1	ekspozycja czasowa
+78	Morze	7	1	ekspozycja stala
+79	Luwr noca	7	3	ekspozycja czasowa
+80	Ogrody w Tivoli	7	2	ekspozycja stala
+81	Krajobraz lesny	8	5	ekspozycja stala
+82	Potyczka z Tatarami	8	1	w magazynie
+83	Oboz Cyganow	8	5	ekspozycja stala
+84	Jablon nad potokiem	8	3	ekspozycja stala
+85	Zwiad kozakow kubanskich	8	3	wypozyczony
+86	Krajobraz jesienny	8	2	ekspozycja stala
+87	Patrol polski w 1830 roku	8	3	ekspozycja czasowa
+88	Scena powstancza w nocy	8	2	ekspozycja stala
+89	Droga wsrod drzew	8	2	ekspozycja czasowa
+90	Wyjazd na polowanie	8	4	ekspozycja czasowa
+91	Polowanie w lesie	8	5	ekspozycja stala
+92	Noc	8	3	w magazynie
+93	Poscig ulanow za bolszewikami	9	1	ekspozycja stala
+94	Idzie ulan borem lasem	9	3	ekspozycja czasowa
+95	Bieg mysliwych z psami za jeleniem	9	3	ekspozycja stala
+96	Powrot spod Moskwy	9	5	ekspozycja stala
+97	Cud nad Wisla 15 sierpnia 1920 roku	9	3	ekspozycja stala
+98	Poscig ulanow krechowieckich za bolszewikami	9	4	wypozyczony
+99	smierc ksiedza Ignacego Skorupki pod Ossowem	9	3	wypozyczony
+100	Pogon ulanow za bolszewikami	9	2	ekspozycja stala
+101	Wesele goralskie	9	1	ekspozycja stala
+102	Potyczka	9	5	ekspozycja czasowa
+103	Polowanie w Poturzycy	10	5	ekspozycja stala
+104	Polowanie na lisa	10	1	ekspozycja stala
+105	Lisowczyk	10	5	ekspozycja stala
+106	Pejzaz z krowami	10	4	wypozyczony
+107	Kozacy donscy	10	1	ekspozycja stala
+108	Portret Tadeusza Kosciuszki	10	3	ekspozycja stala
+109	Luzak ulanski	10	3	wypozyczony
+110	Portret zony artysty	11	5	w magazynie
+111	Panorama Raclawicka	11	2	ekspozycja stala
+112	Huzar francuski na sniegu	11	2	ekspozycja stala
+113	Szarza w wawozie Somosierry	11	3	ekspozycja stala
+114	Wizja Napoleona	11	4	ekspozycja czasowa
+115	Ulan i dziewczyna	11	1	ekspozycja stala
+116	Grunwald	11	3	ekspozycja stala
+117	Bratankowie	12	3	ekspozycja czasowa
+118	Za pozno z pissnia	12	4	ekspozycja stala
+119	Nadejscie zimy	12	2	ekspozycja stala
+120	smierc Ellenai	12	5	wypozyczony
+121	Opetany	12	2	ekspozycja stala
+122	Wspomnienie mlodosci	12	1	wypozyczony
+123	Sybiracy	12	5	ekspozycja stala
+124	Po zniwie	12	1	w magazynie
+125	Melancholia	12	1	ekspozycja stala
+126	Bledne kolo	12	3	ekspozycja stala
+127	Podroz na Wschod	12	5	ekspozycja stala
+128	Artysta i muza	12	1	ekspozycja czasowa
+129	Gorzki chleb	12	3	ekspozycja czasowa
+130	Sploszony kon	12	3	ekspozycja stala
+131	Wytchnienie	12	1	ekspozycja stala
+132	Meduza	12	3	ekspozycja czasowa
+133	Zmartwychwstanie	12	2	ekspozycja stala
+134	Aniol i pastuszek	12	2	w magazynie
+135	Aniol	12	4	ekspozycja stala
+136	Smierc	12	1	wypozyczony
+137	Portret Stanislawa Witkiewicza	12	5	ekspozycja stala
+138	Bajki.Tryptyk	12	3	ekspozycja stala
+139	Hamlet polski	12	3	ekspozycja stala
+140	Rycerz i muza	12	1	ekspozycja stala
+141	Do slawy	12	4	ekspozycja czasowa
+142	Moja piesn	12	3	ekspozycja stala
+143	Pokusa fortuny	12	5	ekspozycja stala
+144	Zatruta studnia	12	1	w magazynie
+145	Muzyka pol	12	2	w magazynie
+146	Chwila tworzenia	12	1	w magazynie
+147	Madonna	12	2	w magazynie
+148	U studni	12	1	ekspozycja stala
+149	Wiosna	12	1	wypozyczony
+150	Zasluchana	12	1	ekspozycja stala
+151	Smierc zwycieska	12	1	w magazynie
+152	Polonia	12	3	ekspozycja czasowa
+153	Jozef Pilsudski na kasztance	11	3	ekspozycja czasowa
+154	Droga w Bronowicach	7	4	ekspozycja stala
+155	Martwa natura z ostem, grzybami, jaszczurka, ptaszkiem i motylami	13	3	wypozyczony
+156	Pejzaz lesny z wozem przejezdzajacym przez brod	14	3	wypozyczony
+157	Oplakiwanie	15	3	ekspozycja stala
+158	Vanitas (Kwiaty i drobne zwierzatka)	16	3	ekspozycja stala
+159	Portret mlodej damy w stroju Diany	17	3	ekspozycja stala
+160	Bitwa wojska kosciuszkowskiego z rosyjskim o przeprawe na rzece	18	3	wypozyczony
+161	Wedrowny bajarz	19	3	ekspozycja czasowa
+162	Pejzaz z wodospadem	20	3	w magazynie
+163	Portret Domeniki Morghen jako Melpomeny	21	3	w magazynie
+164	Madonna z Dzieciatkiem i sw. Anna	22	3	w magazynie
+165	Portret St. Kostki Potockiego	23	3	w magazynie
+166	Portret Mikolaja Kopernika	24	3	w magazynie
+167	Pejzaz z woziwoda (przypisywany)	25	3	ekspozycja stala
+168	Krajobraz z Cros-de-Cagnes	26	3	ekspozycja czasowa
+169	Portret Michala Wielhorskiego	27	3	w magazynie
+170	Chrystus ukazujacy sie Marii Magdalenie	28	3	wypozyczony
+171	Sacra Conversazione	29	3	ekspozycja czasowa
+172	Sen sw. Jozefa	30	3	ekspozycja stala
+173	Nawiedzenie	31	3	ekspozycja czasowa
+174	Chrystus i jawnogrzesznica	32	3	w magazynie
+175	Wskrzeszenie lazarza	33	3	ekspozycja stala
+176	swiety Pawel Pustelnik	34	3	w magazynie
+177	Martwa natura z waza	35	3	ekspozycja czasowa
+178	Martwa natura z koszami owocow	36	3	w magazynie
+179	Mlyn wodny	37	3	wypozyczony
+180	Chrystus zmartwychwstaly z krzyzem i kielichem eucharystycznym	38	3	ekspozycja czasowa
+181	Kamienny kartusz z popiersiem Nicolasa Poussina w otoku kwiatow	39	3	ekspozycja czasowa
+182	Biczowanie Chrystusa	40	3	wypozyczony
+183	Pejzaz nadrzeczny z obozowiskiem	41	3	wypozyczony
+184	Autoportret	42	3	ekspozycja stala
+185	Chrzest Chrystusa	43	3	wypozyczony
+186	Kobieta w ogrodzie	44	3	w magazynie
+187	Oprawianie warzyw	45	3	ekspozycja stala
+188	Saul u wrozki Endor	46	3	w magazynie
+189	Ziemia	47	3	ekspozycja czasowa
+190	Wenus i Amor w kuzni Wulkana	48	3	ekspozycja stala
+191	Biczowanie	49	3	wypozyczony
+192	swiety Sebastian	50	3	w magazynie
+193	swiety Franciszek prosi papieza o odpust zupelny dla pielgrzymow	51	3	ekspozycja czasowa
+194	Portret Henryka Zabiegly	52	3	ekspozycja stala
+195	Eneasz i Sybilla	53	3	ekspozycja czasowa
+196	Kuchnia	54	3	wypozyczony
+197	Diana	55	3	ekspozycja czasowa
+198	Martwa natura z melonem	56	3	ekspozycja czasowa
+199	Pejzaz lesny 	57	3	wypozyczony
+200	Widok Rzymu 	58	3	ekspozycja czasowa
+201	Hiob wyszydzany przez zone 	59	3	w magazynie
+202	Portret Lorenza Giustinianiego	60	3	ekspozycja stala
+203	Caritas Romana 	61	3	w magazynie
+204	Georges jedzacy zupe	62	3	ekspozycja stala
+205	Modlaca sie kobieta 	63	3	wypozyczony
+206	Sen Jakuba 	64	3	ekspozycja stala
+207	Chrystus wsrod doktorow	65	3	ekspozycja czasowa
+208	Portret Giovanniego Battisty Panese	66	3	ekspozycja czasowa
+209	Ostatnia Wieczerza	67	3	ekspozycja czasowa
+210	Chrystus wsrod doktorow	68	3	w magazynie
+211	Niewierny Tomasz	69	3	ekspozycja czasowa
+212	Lucius Junius Brutus calujacy Matke Ziemie	70	3	ekspozycja stala
+213	Martwa natura z kwiatami i szklem 	71	3	wypozyczony
+214	Dawid z glowa Goliata	72	3	ekspozycja czasowa
+215	Krajobraz z okolic Ornans 	73	3	w magazynie
+216	Portret mlodego mezczyzny w zoltym kaftanie 	74	3	wypozyczony
+217	Portret damy w czarnej sukni 	75	3	ekspozycja czasowa
+218	Maria i Jozef	76	3	ekspozycja czasowa
+219	Stary krol Dawid grajacy na harfie 	77	3	ekspozycja stala
+220	Portret Leonii Bluhdorn	78	3	ekspozycja stala
+221	Dirce chrzescijanska	79	3	wypozyczony
+222	Pejzaz ze zniszczeniem Sodomy	80	3	ekspozycja stala
+223	Wincenty Krasinski w wawozie 	81	3	ekspozycja stala
+224	Chlopska kuchnia w ruinach	82	3	ekspozycja czasowa
+225	Kontrola bagazy	83	3	ekspozycja stala
+226	Triumf Fryderyka Henryka	84	3	ekspozycja stala
+227	Kwiaty w wazonie i male stworzonka	85	3	ekspozycja stala
+228	Portret weneckiego admirala	86	3	ekspozycja czasowa
+229	Starzec	87	3	wypozyczony
+230	Bitwa morska chrzescijan z Turkami 	88	3	w magazynie
+231	Ecce Homo	89	3	w magazynie
+232	Wybor miedzy bogactwem a mlodoscia 	90	3	wypozyczony
+233	Blogoslawienstwo Jakuba	91	3	w magazynie
+234	Ostatnia Wieczerza	92	3	ekspozycja czasowa
+235	Wiolonczelista	93	3	wypozyczony
+236	Oltarz swietego Rajnolfa 	94	3	ekspozycja stala
+237	Widok portu o poranku 	95	3	w magazynie
+238	Portret mlodej kobiety	96	3	w magazynie
+239	Dziwny ogrod	97	3	w magazynie
+240	Nokturn – labedzie w Ogrodzie Saskim w Warszawie noca	98	3	ekspozycja stala
+241	Krajobraz w swietle ksiezyca	99	3	wypozyczony
+242	Portret Marii Ludwiki Gonzagi	100	3	wypozyczony
+243	Uczta	101	3	wypozyczony
+244	Rogalin zima	102	3	ekspozycja czasowa
+245	Obrzezanie Chrystusa	103	3	wypozyczony
+246	Portret Anny Schaumberg z lalka	104	3	w magazynie
+247	Prometeusz	105	3	ekspozycja czasowa
+248	Tryptyk ze scena Ecce Homo	106	3	ekspozycja czasowa
+249	Poborcy podatkow	107	3	w magazynie
+250	Poklon pasterzy	108	3	wypozyczony
+251	Widok miasteczka 	109	3	wypozyczony
+252	Krajobraz ze sw. Janem Chrzcicielem 	110	3	ekspozycja stala
+253	Ponte Rialto	111	3	w magazynie
+254	Portret mlodej dziewczyny	112	3	w magazynie
+255	Portret Aleksandry z Potockich	113	3	ekspozycja czasowa
+256	Portret mezczyzny	114	3	ekspozycja stala
+257	Portret damy z pieskiem i malpka	115	3	ekspozycja czasowa
+258	Budzenie spiacego mlodzienca za pomoca palacego sie knota	116	3	ekspozycja stala
+259	Dawid z glowa Goliata	117	3	ekspozycja stala
+260	Martwa natura z zegarkiem	118	3	ekspozycja stala
+261	Imieniny Babuni	119	3	ekspozycja czasowa
+262	Portret kobiety w kapeluszu	120	3	wypozyczony
+263	Sacra Conversazione	121	3	w magazynie
+264	Walka koguta z indykiem	122	3	ekspozycja stala
+265	Somnambuliczna tancerka	123	3	wypozyczony
+266	Zjadacze wezy 	124	3	wypozyczony
+267	Portret kardynala Richelieu	125	3	ekspozycja czasowa
+268	Prosty posilek (sniadanie wiejskie)	126	3	ekspozycja czasowa
+269	Wygnanie z raju	127	3	ekspozycja czasowa
+270	Uczynki milosierdzia chrzescijanskiego	128	3	w magazynie
+271	Kobieta czeszaca wlosy (Alegoria Vanitas)	129	3	ekspozycja czasowa
+272	Wnetrze kosciola sw. Bawona w Haarlemie	130	3	wypozyczony
+273	Uczta u Estery	131	3	wypozyczony
+274	Bitwa	132	3	ekspozycja czasowa
+275	Portret Johana Mauritsa 	133	3	wypozyczony
+276	Konie w okolniku	134	3	ekspozycja czasowa
+277	Trzy Krzyze	135	3	ekspozycja czasowa
+278	Arka Noego 	136	3	wypozyczony
+279	Droga wsrod wydm	137	3	ekspozycja czasowa
+280	Madonna z Dzieciatkiem	138	3	ekspozycja stala
+281	swiety Hieronim	139	3	wypozyczony
+282	Chrystus przed Pilatem	140	3	ekspozycja stala
+283	Uczta w Kanie Galilejskiej	141	3	wypozyczony
+284	Niedobrana para (Vanitas) 	142	3	ekspozycja czasowa
+285	Falsz kobiety. Portret Maryli Grossmanowej z autoportretem	143	3	wypozyczony
+286	Chocholy	144	3	wypozyczony
+287	Ukrzyzowanie	145	3	w magazynie
+288	Parasol i niewidoczny	146	3	w magazynie
+289	Teatr dzieciecy	147	3	w magazynie
+290	Kobieta siedzaca na krzesle	148	3	ekspozycja stala
+291	Gra w karty	149	3	wypozyczony
+292	Akt z kotem	150	3	wypozyczony
+293	Rzez niewiniatek	151	3	ekspozycja czasowa
+294	Trzecia rocznica towarzystwa im. Kandinskiego	152	3	ekspozycja czasowa
+295	Vertumnus i Pomona	153	3	w magazynie
+296	Portret Franciszka Mullera i jego zony Barbary	154	3	ekspozycja czasowa
+297	Porwanie krolewny	155	3	ekspozycja czasowa
+298	Ulica Nowy swiat w Warszawie w dzien letni	156	3	ekspozycja czasowa
+299	sw. Sebastian	157	3	ekspozycja czasowa
+300	Ewa II	158	3	ekspozycja czasowa
+301	Widok Palacu Prymasowskiego	159	3	ekspozycja czasowa
+302	Cyganie w ruinach	19	3	ekspozycja stala
+303	Pieta	28	3	wypozyczony
+304	Stary dom	47	3	w magazynie
+305	Apollo i Saturn (Tryumf Diany)	55	3	ekspozycja czasowa
+306	Martwa natura z grzybami	56	3	wypozyczony
+307	Trojca swieta 	61	3	w magazynie
+308	Imago Pietatis	65	3	ekspozycja czasowa
+309	Rzymska sielanka	79	3	ekspozycja stala
+310	Lotem i jego corkami	80	3	ekspozycja czasowa
+311	ksiecia Oranii 	84	3	ekspozycja stala
+312	Mlodzieniec z fajka dmuchajacy na zar 	87	3	w magazynie
+313	Skaliste wybrzeze morskie	95	3	w magazynie
+314	Slonce majowe	97	3	ekspozycja stala
+315	Komunia Apostolow	105	3	ekspozycja stala
+316	Przybicie Chrystusa do krzyza	110	3	wypozyczony
+317	Portret mezczyzny	115	3	ekspozycja czasowa
+318	W oranzerii	119	3	wypozyczony
+319	Wenus i Amor	121	3	ekspozycja czasowa
+320	Narzeczona	124	3	wypozyczony
+321	sw. Janem Chrzcicielem i aniolem	138	3	wypozyczony
+322	Biczowanie	140	3	ekspozycja stala
+323	Kompozycja z piecioma postaciami 	143	3	ekspozycja stala
+324	Autoportret	144	3	ekspozycja czasowa
+325	Mezczyzna z ksiega	153	3	ekspozycja stala
+326	Bajka o rycerzu	155	3	w magazynie
+327	Dzieci w ogrodzie	156	3	ekspozycja stala
+328	Latarnia magiczna	19	3	wypozyczony
+329	Zwiastowanie	28	3	w magazynie
+330	Ofiara Ifigenii	55	3	w magazynie
+331	projekt kurtyny teatru krakowskiego	79	3	wypozyczony
+332	swieta Rodzina z malym sw. Janem i jego rodzicami	84	3	w magazynie
+333	Stworzenie swiata	110	3	ekspozycja stala
+334	Portret Heleny i Wladyslawy Chmielarczykowien	119	3	wypozyczony
+335	Bajka (Fantazja)	143	3	w magazynie
+336	Widok z okna pracowni na Kopiec Kosciuszki	144	3	ekspozycja stala
+337	Caritas	144	3	ekspozycja stala
+338	Chrystus upadajacy pod ciezarem krzyza	110	3	w magazynie
+339	Pejzaz z architektura i scena z Nowego Testamentu	110	3	wypozyczony
