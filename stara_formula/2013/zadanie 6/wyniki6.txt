@@ -1,0 +1,12 @@
+ZADANIE 6
+
+6a
+447
+
+6b
+324
+
+6c
+Liczb: 49
+Najmniejsza: 24
+Najwieksza: 1133357
