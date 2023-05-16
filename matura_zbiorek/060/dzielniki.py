@@ -29,12 +29,31 @@ with open("liczby.txt") as file:
     results.write("\n\n")
 
 #60.3
+dividers = []
+biggest_number = 0
 with open("liczby.txt") as file:
-    all_numbers = []
     for lines in file:
         number = int(lines.strip())
-        all_numbers.append(number)
+        dividers.append(number)
+        for i in range(2, (int(number**(0.5)))+1):
+            if number%i == 0:
+                dividers.append(i)
 
+with open("liczby.txt") as file:
+    for lines in file:
+        number = int(lines.strip())
+        num_dividers = [number]
+        unique = 0
+        for i in range(2, (int(number**(0.5)))+1):
+            if number%i == 0:
+                num_dividers.append(i)
+                
+        for divider in num_dividers:
+            if dividers.count(divider) == 1:
+                unique += 1
+        if unique == len(set(num_dividers)):
+            biggest_number = max(number, biggest_number)
 
+results.write(f"60.3\nBiggest coprime integer:\n{biggest_number}") 
 results.close()
 file.close()
