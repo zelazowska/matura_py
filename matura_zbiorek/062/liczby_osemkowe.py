@@ -60,11 +60,12 @@ def zadanie63():
 def zadanie64():
     six_occuring = 0
     six_in_octal = 0
-    for lines in liczby2:
-        number = lines.strip()
-        six_occuring += int(number.count("6"))
-        octal_number = str(oct(int(number)))
-        six_in_octal += int(octal_number.count("6"))
+    with open("liczby2.txt", "r") as numbers:
+        for lines in numbers:
+            lines = lines.rstrip()
+            six_occuring += int(lines.count("6"))
+            octal = str(oct(int(lines)))
+            six_in_octal += int(octal.count("6"))
         
     wyniki.write(f"62.4\nAmount of numbers with 6: {six_occuring}\n"
                  f"Amount of numbers with 6 in octal representation: "

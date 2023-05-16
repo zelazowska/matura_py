@@ -11,6 +11,6 @@ Amount of equal numbers: 160
 Octal numbers bigger than decimal: 357
 
 62.4
-Amount of numbers with 6: 0
-Amount of numbers with 6 in octal representation: 0
+Amount of numbers with 6: 411
+Amount of numbers with 6 in octal representation: 625
 
