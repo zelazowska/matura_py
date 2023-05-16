@@ -1,17 +1,12 @@
 import math
 
-s1 = open("dane_systemy1.txt", "r") #binary input station
-s2 = open("dane_systemy2.txt", "r") #quatenary input station
-s3 = open("dane_systemy3.txt", "r") #octal input station
+s1 = open("dane_systemy1.txt") #binary input station
+s2 = open("dane_systemy2.txt") #quatenary input station
+s3 = open("dane_systemy3.txt") #octal input station
 results = open("wyniki_systemy.txt", "w") 
 
-s1_hours = []
-s2_hours = []
-s3_hours = []
-
-s1_temperatures = []
-s2_temperatures = []
-s3_temperatures = []
+s1_hours, s2_hours, s3_hours = [], [], []
+s1_temperatures, s2_temperatures, s3_temperatures = [], [], []
 
 #58.1
 for lines in s1:
@@ -36,7 +31,7 @@ s1_minimal_temp = bin(min(s1_temperatures)).replace("0b", "")
 s2_minimal_temp = bin(min(s2_temperatures)).replace("0b", "")
 s3_minimal_temp = bin(min(s3_temperatures)).replace("0b", "")
 
-results.write(f"58.1\n LOWEST REGISTERED TEMPERATURES:\n Station 1: {s1_minimal_temp}\n Station 2: {s2_minimal_temp}\n Station 3: {s3_minimal_temp}\n\n")
+results.write(f"58.1\nLOWEST REGISTERED TEMPERATURES:\nStation 1: {s1_minimal_temp}\nStation 2: {s2_minimal_temp}\nStation 3: {s3_minimal_temp}\n\n")
 
 #58.2
 counter = 0
@@ -50,7 +45,7 @@ for i in range(len(s1_hours)):
         counter += 1
     hour_corrector += 24
 
-results.write(f"58.2\n AMOUNT OF HOURS INCORRECTLY READ: \n {counter}\n\n")
+results.write(f"58.2\nAMOUNT OF HOURS INCORRECTLY READ:\n{counter}\n\n")
 
 #58.3
 maxi_s1 = s1_temperatures[0]
@@ -73,7 +68,7 @@ for i in range(1, len(s1_temperatures)):
     if isRecord:
         record_days += 1 
                 
-results.write(f"58.3\n AMOUNT OF RECORD DAYS:\n {record_days}\n\n")
+results.write(f"58.3\nAMOUNT OF RECORD DAYS:\n{record_days}\n\n")
 
 #58.4
 all_jumps = []
@@ -86,8 +81,7 @@ for i in range(len(s1_temperatures)):
         all_jumps.append(temp_jump)
 maxi_jump = max(all_jumps)
 
-results.write(f"58.4\n BIGGEST TEMPERATURE JUMP: \n {maxi_jump}")
-
+results.write(f"58.4\nBIGGEST TEMPERATURE JUMP:\n{maxi_jump}")
 
 s1.close()
 s2.close()
