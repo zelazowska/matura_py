@@ -20,23 +20,25 @@ def zadanie61():
                  f"smallest number (octal):{smallest_number}\n\n")
 
 def zadanie62():
-    pass
-    """
-    all_numbers = []
+    sequence = []
+    max_sequence = []
+    max_sequence_len = 1
     for lines in liczby2:
-        numbers = int(lines.strip())
-        all_numbers.append(numbers)
-        
-    longest_sequence = 0 
-    current_sequence_len = 0 
-    nondecreasing = []
-    prev = 10000000000
-    for i in range(1, len(all_numbers)):
-        if(all_numbers[i] >= all_numbers{i-1}):
-            if(current_sequence_len > longest_sequence):
-                longest_sequence = max(current_sequence_len, longest_sequence)
-                first_in_longest = first 
-    """
+        sequence.append(int(lines.rstrip()))
+       
+    for i in range(1, len(sequence)):
+        if sequence[i-1] <= sequence[i]:
+            sequence_len += 1
+            current_sequence.append(sequence[i-1])
+            max_sequence_len = max(max_sequence_len, sequence_len)
+            if len(current_sequence) > len(max_sequence):
+                max_sequence = current_sequence
+        else:
+            sequence_len = 1
+            current_sequence = []
+    
+    wyniki.write(f"62.2\nLongest sequence: {max_sequence_len}\n"
+                 f"First number in sequence: {max_sequence[0]}\n\n")
             
 def zadanie63():
     same_numbers = 0
@@ -68,11 +70,8 @@ def zadanie64():
                  f"Amount of numbers with 6 in octal representation: "
                  f"{six_in_octal}\n\n")
             
-
-
-
-
 zadanie61()
 zadanie62()
 zadanie63()
 zadanie64()
+wyniki.close()
