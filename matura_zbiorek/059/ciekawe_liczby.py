@@ -30,7 +30,7 @@ for number in numbers:
     if uneven_factors(number):
         counter += 1
         
-print(f'{counter}\n)
+print(f"{counter}\n")
 
 print("59.2")
 palindromic_sums = 0
