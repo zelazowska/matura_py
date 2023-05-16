@@ -63,7 +63,7 @@ for number in numbers:
         max_power1 = max(int(lines), max_power1)
         min_power1 = min(int(lines), min_power1)
         
-for key, value in Counter(powers).items():
+for key, value in sorted(Counter(powers).items()):
     print(key, value)
     
 print(f"Maksymalna dla mocy 1: {max_power1}\nMinimalna: {min_power1}")
