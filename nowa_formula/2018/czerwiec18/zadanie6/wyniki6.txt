@@ -1,0 +1,36 @@
+ZADANIE 6
+
+Zad.6.1
+Nela		Aabacka	WI1150	2	160,00zł
+
+Aaricia	Zgbacka	WI1126	11	880,00 zł
+
+Zad.6.2
+Klasa	Wypozyczen
+B	100
+C	48
+D	53
+
+Zad.6.3
+Imie		Nazwisko	Wypozyzen
+Ramzes	Hcbacki	5
+
+Zad.6.4
+Aniolkowo		B	12
+Aniolkowo		C	8
+Aniolkowo		D	7
+Manipulatowo	B	31
+Manipulatowo	C	14
+Manipulatowo	D	11
+Nieszczerzyn	B	17
+Nieszczerzyn	C	9
+Nieszczerzyn	D	4
+Piarowa		B	16
+Piarowa		C	18
+Piarowa		D	8
+Wielka Wola		B	25
+Wielka Wola		C	11
+Wielka Wola		D	7
+
+Zad.6.5
+72
