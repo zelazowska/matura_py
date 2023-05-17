@@ -1,0 +1,5 @@
+4.1
+Liczb bedacych potegami trojki: 2
+
+4.2
+145
