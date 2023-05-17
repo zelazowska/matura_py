@@ -1,0 +1,2 @@
+4.2
+Par ciagow, w ktorych jest 5 liczb parzystych i 5 nieparzystych: 50

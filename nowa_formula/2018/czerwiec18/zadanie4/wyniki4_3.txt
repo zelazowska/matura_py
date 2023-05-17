@@ -1,0 +1,4 @@
+4.2
+Par ciagow utworzonych z tych samych liczb: 1
+Wiersze:
+[999]
