@@ -31,8 +31,6 @@ for lines in file:
 # all_gcds = [0]]
 # for i in range(1, len(numbers)):
 #     all_gcds.append(gcd(numbers[i-1], numbers[i]))
-# for i in range(1, len(all_gcds)):
-#     kurwa.append(gcd(all_gcds[i-1], all_gcds[i]))
 # for i in range(1, len(numbers)):
-#     print(numbers[i-1], numbers[i], kurwa[i])
+#     print(numbers[i-1], numbers[i])
     
