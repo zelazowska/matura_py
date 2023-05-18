@@ -1,0 +1,26 @@
+ZADANIE 6
+
+Zad 6.1
+T4	905
+
+Zad 6.2
+Kursów, w których statek spędził więcej niż 20 dni na morzu:		
+22	
+
+Zad 6.3
+01.02.2016		
+Najwiecej:	t2	48
+Najmniej:	t4	24
+		
+01.08.2018		
+Najwiecej:	t5	125
+Najmniej:	t1	3
+
+Zad 6.4
+w arkuszu "zad 6.4 wykres"
+
+Zad 6.5
+18 grudnia 2018:	545844
+Max stan kasy: niestety nie umiem
+Minimalnie talarow: 6399
+
