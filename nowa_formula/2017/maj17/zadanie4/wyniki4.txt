@@ -1,0 +1,20 @@
+ZADANIE 4
+
+Zad. 4.1
+NIP			Ilość cukru
+254-14-00-156	27505
+847-48-41-699	26955
+392-78-93-552	26451
+
+Zad. 4.2
+643 267,07
+
+Zad. 4.3
+w arkuszu "4.3 wykres"
+
+Zad. 4.4
+Łączna suma rabatów: 38126,35 zł
+
+Zad. 4.5
+Dni, w których firma Słodzik w latach 2005–2014 dokupywała co najmniej 4000 kg cukru: 14
+
